@@ -7,7 +7,28 @@ const api = axios.create({
 
 export const getDistricts = () => api.get("/districts");
 
-export const getSchools = () => api.get("/schools");
+// Fetch all school records, including records on later pages
+export const getSchools = async () => {
+  const firstResponse = await api.get("/schools?page=1&limit=1000");
+
+  const totalPages = firstResponse.data.totalPages || 1;
+
+  const remainingResponses = await Promise.all(
+    Array.from({ length: totalPages - 1 }, (_, index) =>
+      api.get(`/schools?page=${index + 2}&limit=1000`)
+    )
+  );
+
+  const allSchools = [
+    ...(firstResponse.data.data || []),
+    ...remainingResponses.flatMap(response => response.data.data || [])
+  ];
+
+  return {
+    ...firstResponse,
+    data: allSchools
+  };
+};
 
 export const getAdministrators = () => api.get("/administrators");
 
