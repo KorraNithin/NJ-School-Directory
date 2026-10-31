@@ -272,7 +272,7 @@ function App() {
             <div className="stat-icon stat-cyan"><Users size={20} /></div>
             <div className="stat-content">
               <span className="stat-label">Administrators</span>
-              <strong>{administrators.length.toLocaleString()}</strong>
+              <strong>{administrators.length.toLocaleString()}+</strong>
               <span className="stat-note">Available contact records</span>
             </div>
             <div className="stat-decoration">03</div>
