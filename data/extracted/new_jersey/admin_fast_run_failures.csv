@@ -1,0 +1,329 @@
+﻿district,url,error
+Paterson Charter School for Science and Technology,http://www.pcsst.org,'str' object has no attribute 'get'
+Absecon Public Schools District,http://www.abseconschools.org/,'str' object has no attribute 'get'
+Barack Obama Green Charter School District,http://www.barackobamagreencharterschool.org,'str' object has no attribute 'get'
+Bergen Arts and Science Charter School,http://ilearnschools.org/bergen-arts-science-charter-school/,'str' object has no attribute 'get'
+Allendale Public School District,http://www.allendalek8.com,'str' object has no attribute 'get'
+Compass Academy Charter School,http://www.compassacademycharter.org,'str' object has no attribute 'get'
+South Hunterdon Regional School District,http://www.shrsd.org,'str' object has no attribute 'get'
+Camden Prep Inc.,http://www.camdenprep.uncommonschools.org,'str' object has no attribute 'get'
+Passaic Arts and Science Charter School,http://ilearnschools.org/passaic-arts-science-charter-school/,'str' object has no attribute 'get'
+Marie H. Katzenbach School for the Deaf,http://www.mksd.org,'str' object has no attribute 'get'
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/Mission-and-Vision/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/Mission-and-Vision/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/Charter/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/Charter/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/School-Leadership/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/School-Leadership/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/HIBAnti-Bullying-Info/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/HIBAnti-Bullying-Info/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/USDA-Non-Discrimination-Statement/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/USDA-Non-Discrimination-Statement/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/Public-Notices/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/Public-Notices/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/About-Us/Wall-of-Appreciation/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/About-Us/Wall-of-Appreciation/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Board-Calendar/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Board-Calendar/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Agendas-and-Minutes/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Agendas-and-Minutes/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Regulations/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Regulations/index.html
+Greater Brunswick Charter School,https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Affirmative-Action-Information/index.html,404 Client Error: Not Found for url: https://www.greaterbrunswick.org/Staff-Resources/Board-of-Trustees/Affirmative-Action-Information/index.html
+Philip's Academy Charter School,https://www.pacsnewark.org/staff-logins,401 Client Error: Unauthorized for url: https://www.pacsnewark.org/staff-logins
+Classical Academy Charter School of Clifton,https://www.classicalacademy.org/domain/16,404 Client Error: Not Found for url: https://www.classicalacademy.org/domain/16
+Principle Academy Charter School,http://www.principleacademycharter.org,'str' object has no attribute 'get'
+Paterson Arts and Science Charter School,http://ilearnschools.org/paterson-arts-science-charter-school/,'str' object has no attribute 'get'
+Empowerment Academy Charter School,http://www.empacad.org,'str' object has no attribute 'get'
+Atlantic Community Charter School,https://www.atlanticcommunitycharter.com/staff-resources,401 Client Error: Unauthorized for url: https://www.atlanticcommunitycharter.com/staff-resources
+Atlantic Community Charter School,https://www.atlanticcommunitycharter.com/staff,401 Client Error: Unauthorized for url: https://www.atlanticcommunitycharter.com/staff-resources
+Loch Arbour School District,http://www.locharbournj.us/,'str' object has no attribute 'get'
+Mastery Schools of Camden Inc.,http://www.masterynj.org,'str' object has no attribute 'get'
+Benjamin Banneker Preparatory Charter School,https://www.bannekerprep.com/apps/staff/apps/maps,404 Client Error: Not Found for url: https://www.bannekerprep.com/apps/staff/apps/maps
+Great Oaks Legacy Charter School,https://www.greatoakslegacy.org/join-our-team/staff-videos,404 Client Error: Not Found for url: https://www.greatoakslegacy.org/join-our-team/staff-videos
+Hudson Arts and Science Charter School,http://ilearnschools.org/hudson-arts-science-charter-school/,'str' object has no attribute 'get'
+Avalon School District,http://www.avalonstoneharborschools.org,'str' object has no attribute 'get'
+Alpha Borough School District,http://apsedu.org/staff/directory/bmcaleer@apsedu.org,404 Client Error: Not Found for url: http://apsedu.org/staff/directory/bmcaleer@apsedu.org
+Alpha Borough School District,http://apsedu.org/staff/directory/myale@apsedu.org,404 Client Error: Not Found for url: http://apsedu.org/staff/directory/myale@apsedu.org
+Bergen County Vocational Technical School District,http://bcts.bergen.org,'str' object has no attribute 'get'
+Berlin Township School District,http://www.btwpschools.org,'str' object has no attribute 'get'
+Bethlehem Township School District,http://www.btschools.org,'str' object has no attribute 'get'
+Brick Township Public School District,http://www.brickschools.org,'str' object has no attribute 'get'
+Bordentown Regional School District,http://www.bordentown.k12.nj.us,'str' object has no attribute 'get'
+Bound Brook School District,http://bbrook.org/,'str' object has no attribute 'get'
+Bridgeton City School District,http://www.Bridgeton.k12.nj.us,'str' object has no attribute 'get'
+Branchburg Township School District,http://www.branchburg.k12.nj.us,'str' object has no attribute 'get'
+Burlington County Institute of Technology School District,http://www.burlcoschools.org,'str' object has no attribute 'get'
+Camden City School District,http://WWW.CAMDENCITYSCHOOLS.ORG,'str' object has no attribute 'get'
+Cape May County Technical High School District,http://www.capemaytech.com,'str' object has no attribute 'get'
+Cape May County Special Services School District,http://www.cmcspecialservices.org,'str' object has no attribute 'get'
+Chesilhurst Board of Education,http://www.chesilhurstboe.org,'str' object has no attribute 'get'
+Cinnaminson Township School District,http://www.cinnaminson.com,'str' object has no attribute 'get'
+Cape May Point School District,http://www.capemaycityschool.org,'str' object has no attribute 'get'
+Cliffside Park School District,http://www.cliffsidepark.edu,'str' object has no attribute 'get'
+Clifton Public School District,http://www.clifton.k12.nj.us/,'str' object has no attribute 'get'
+Clinton-Glen Gardner School District,http://cpsnj.org,'str' object has no attribute 'get'
+Corbin City School District,http://n/a,'str' object has no attribute 'get'
+Cranbury Township School District,http://admin.cranburyschool.org,403 Client Error: Forbidden for url: https://cranburyschool.edlioadmin.com/
+Asbury Park School District,https://www.asburypark.k12.nj.us/About_APSD/AllStaff/portlets/,404 Client Error: Not Found for url: https://www.asburypark.k12.nj.us/About_APSD/AllStaff/portlets/
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/Site-Search/,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/Site-Search/
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/Calendar/,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/Calendar/
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/Staff-Directory/,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/Staff-Directory/
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Building-a-Bright-Future-9-15-26/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Building-a-Bright-Future-9-15-26/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Building-a-Bright-Future-9-15-26/Voter-Information-Hub/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Building-a-Bright-Future-9-15-26/Voter-Information-Hub/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Building-a-Bright-Future-9-15-26/Bond-Referendum-FAQs/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Building-a-Bright-Future-9-15-26/Bond-Referendum-FAQs/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/About-Us/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/About-Us/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Budget/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Budget/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Community-Ed/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Community-Ed/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Lead-Testing/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Lead-Testing/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Request-for-Proposal/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Request-for-Proposal/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Technology/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Business-Office/Technology/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Curriculum/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Curriculum/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Curriculum/Preschool/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Curriculum/Preschool/index.html
+Clementon Elementary School District,https://www.clemsd.org/Staff-Directory/District-Info/Curriculum/Kindergarten/index.html,404 Client Error: Not Found for url: https://www.clemsd.org/Staff-Directory/District-Info/Curriculum/Kindergarten/index.html
+Dunellen Public School District,http://www.dunellenschools.org,'str' object has no attribute 'get'
+Edgewater Park Township School District,http://www.edgewaterparksd.org,'str' object has no attribute 'get'
+Elsinboro Township School District,http://www.elsinboroschool.org,'str' object has no attribute 'get'
+Elk Township School District,http://www.auraelementary.us,'str' object has no attribute 'get'
+Egg Harbor Township School District,http://www.eht.k12.nj.us,'str' object has no attribute 'get'
+Emerson Public School District,http://www.emersonschools.org,'str' object has no attribute 'get'
+Evesham Township School District,http://www.evesham.k12.nj.us,'str' object has no attribute 'get'
+Byram Township School District,https://www.byramschools.org/fs/resource-manager/view/22cdf6d3-1369-40db-a0c5-9a3d77e7a0c8,Not HTML
+Flemington-Raritan Regional School District,http://www.frsd.k12.nj.us,'str' object has no attribute 'get'
+Franklin Lakes School District,http://www.franklinlakes.k12.nj.us,'str' object has no attribute 'get'
+Chesterfield Township School District,https://www.chesterfieldschool.com/fs/resource-manager/view/52380112-70e8-4de6-b7d0-7bed8679f6fc,Not HTML
+Chesterfield Township School District,https://www.chesterfieldschool.com/fs/resource-manager/view/9e7c2042-67c2-469a-843e-10de49ab04e3,Not HTML
+Chesterfield Township School District,https://www.chesterfieldschool.com/fs/resource-manager/view/3253e06e-c28f-4d6a-8702-7c210d7374cf,Not HTML
+Chesterfield Township School District,https://www.chesterfieldschool.com/fs/resource-manager/view/8b3d0948-9dbc-4366-8194-c48d98d86881,Not HTML
+Bergenfield Borough School District,https://www.bergenfield.org/fs/resource-manager/view/6614a6a0-91b7-44bf-94d2-553f88bb8d06,Not HTML
+Chester Township School District,https://www.chester-nj.org/fs/resource-manager/view/d7e4e290-9115-4807-b808-1afc313b383a,Not HTML
+East Newark School District,https://www.eastnewarkschool.org/staff/portlets/,404 Client Error: Not Found for url: https://www.eastnewarkschool.org/staff/portlets/
+Green Brook Township Public School District,http://www.gbtps.org,'str' object has no attribute 'get'
+Sterling Regional School District,https://www.sterling.k12.nj.us/School/Principal/portlets/,404 Client Error: Not Found for url: https://www.sterling.k12.nj.us/School/Principal/portlets/
+Sterling Regional School District,https://www.sterling.k12.nj.us/School/Principal/2024.7.11 Episode 1 Summer Update,404 Client Error: Not Found for url: https://www.sterling.k12.nj.us/School/Principal/2024.7.11%20Episode%201%20Summer%20Update
+Greenwich Township School District,http://www.greenwichstowcreekpartnershipschools.org,'str' object has no attribute 'get'
+Guttenberg School District,http://www.alkschool.org,'str' object has no attribute 'get'
+Hackensack School District,http://hackensackschools.org,'str' object has no attribute 'get'
+Hamilton Township School District,http://www.hamiltonschools.org,'str' object has no attribute 'get'
+Haddonfield School District,https://central.haddonfieldschools.org/staff-directory/,403 Client Error: Forbidden for url: https://central.haddonfieldschools.org/staff-directory/
+Haddonfield School District,https://Elizabeth.haddonfieldschools.org/staff-directory/,403 Client Error: Forbidden for url: https://elizabeth.haddonfieldschools.org/staff-directory/
+Haddonfield School District,https://tatem.haddonfieldschools.org/staff-directory/,403 Client Error: Forbidden for url: https://tatem.haddonfieldschools.org/staff-directory/
+Haddonfield School District,https://middle.haddonfieldschools.org/staff-directory/,403 Client Error: Forbidden for url: https://middle.haddonfieldschools.org/staff-directory/
+Haddonfield School District,https://high.haddonfieldschools.org/staff-directory-2/,403 Client Error: Forbidden for url: https://high.haddonfieldschools.org/staff-directory-2/
+Haddonfield School District,https://elizabeth.haddonfieldschools.org/staff-directory/,403 Client Error: Forbidden for url: https://elizabeth.haddonfieldschools.org/staff-directory/
+Haledon Public School District,https://admin.haledon.org,403 Client Error: Forbidden for url: https://haledon.edlioadmin.com/
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/Mission-and-Vision-Statement/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/Mission-and-Vision-Statement/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/Staff-Directory/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/Staff-Directory/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/Employment-Opportunities/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/About-Us/Employment-Opportunities/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Administration/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Administration/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Board-Members/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Board-Members/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Finance/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Finance/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Business-Office-Information/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Business-Office-Information/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/BoE-Meeting-Schedule/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/BoE-Meeting-Schedule/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/AgendaMeetings/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/AgendaMeetings/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/BOE-Policies--Regulations/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/BOE-Policies--Regulations/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Safe-Return-Plan--ParentChild-Support/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Board-of-Education/Safe-Return-Plan--ParentChild-Support/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Athletics/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Athletics/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Buildings-and-Grounds/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Buildings-and-Grounds/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Buildings-and-Grounds/Lead-Testing/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Buildings-and-Grounds/Lead-Testing/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Child-Study-Team/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Child-Study-Team/index.html
+Hainesport Township School District,https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Child-Study-Team/Intervention--Referral-Services/index.html,404 Client Error: Not Found for url: https://www.hainesport.k12.nj.us/About-Us/Staff-Directory/Departments/Child-Study-Team/Intervention--Referral-Services/index.html
+Fair Haven School District,https://www.fairhaven.edu/district/administration/district_organization_chart,Not HTML
+Fair Haven School District,https://www.fairhaven.edu/district/administration/district_organization_chart/,Not HTML
+Fair Haven School District,https://www.fairhaven.edu/district/administration/portlets/,404 Client Error: Not Found for url: https://www.fairhaven.edu/district/administration/portlets/
+Hardyston Township School District,https://www.htps.org/?page_id=158,404 Client Error: Not Found for url: https://www.htps.org/?page_id=158
+Garfield Public School District,https://www.gboe.org/anti-_bullying/n_j_school_directory,403 Client Error: Forbidden for url: https://homeroom5.doe.state.nj.us/directory/school.php?district=1700&source=01
+Garfield Public School District,https://www.gboe.org/departments/superintendent_of_schools/portlets/,404 Client Error: Not Found for url: https://www.gboe.org/departments/superintendent_of_schools/portlets/
+Garfield Public School District,https://www.gboe.org/staff/portlets/,404 Client Error: Not Found for url: https://www.gboe.org/staff/portlets/
+Garfield Public School District,https://www.gboe.org/departments/superintendent_of_schools/letters_from_the_superintendent/portlets/,404 Client Error: Not Found for url: https://www.gboe.org/departments/superintendent_of_schools/letters_from_the_superintendent/portlets/
+Garfield Public School District,https://www.gboe.org/departments/letters_from_the_superintendent/,404 Client Error: Not Found for url: https://www.gboe.org/departments/letters_from_the_superintendent/
+Freehold Borough School District,https://www.freeholdboro.k12.nj.us/fs/resource-manager/view/2edd1c50-16c8-47f7-9af9-5e4daef53d52,Not HTML
+Freehold Borough School District,https://www.freeholdboro.k12.nj.us/fs/resource-manager/view/1b9cbef7-1132-4cbc-aac2-caaefc5540bc,Not HTML
+Freehold Borough School District,https://www.freeholdboro.k12.nj.us/fs/resource-manager/view/302d101f-f4cb-4c73-82f4-36b813587a3e,Not HTML
+Freehold Borough School District,https://www.freeholdboro.k12.nj.us/fs/resource-manager/view/65efe090-ab95-48d6-942e-333a9fe560ad,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/c2a4185b-e124-4d5d-9753-14ad00d742b9,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/e9c72aaa-2f32-402b-835b-a05cb9a6fa47,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/9c37acb7-0021-4004-a484-dbbd74b724aa,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/f90f15d3-bb85-40da-bea0-8b3f41a33104,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/2424b4c5-b970-480e-9cc3-4d6100512599,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/4e3f9adc-e0ef-4b46-b883-1a606690e074,Not HTML
+Ewing Township School District,https://www.ewing.k12.nj.us/fs/resource-manager/view/82dd3797-a3cf-4ad1-b482-b153cd3a3b7f,Not HTML
+Holmdel Township School District,http://www.holmdelschools.org,'str' object has no attribute 'get'
+Denville Township K-8 School District,https://www.denville.org/staff/model_code_of_ethics_for_educators___m_c_e_e_,403 Client Error: Forbidden for url: https://www.nasdtec.net/page/MCEE_Doc
+East Amwell Township School District,https://www.eastamwell.org/staff/BenQAMS,"HTTPConnectionPool(host='ams.benq.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(""HTTPConnection(host='ams.benq.com', port=80): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it""))"
+Delran Township School District,https://www.delranschools.org/administration/business_office/open_public_records_act_request_form,Not HTML
+Delran Township School District,https://www.delranschools.org/administration/district_organizational_chart,Not HTML
+Delran Township School District,https://www.delranschools.org/staff/cambium_testing,403 Client Error: Forbidden for url: http://nj.cambiumtds.com/testadmin
+Delran Township School District,https://www.delranschools.org/staff/human_resources/12_month_employee_calendar,Not HTML
+Hudson County Schools of Technology School District,http://www.hcstonline.org,'str' object has no attribute 'get'
+Lakehurst School District,http://www.lakehurstschool.org,'str' object has no attribute 'get'
+Laurel Springs School District,http://www.laurelspringschool.org,'str' object has no attribute 'get'
+Jamesburg Public School District,http://helpdesk.jamesburg.org/swauth,401 Client Error: Unauthorized for url: http://helpdesk.jamesburg.org/swauth
+Gateway Regional High School District,https://www.gatewayhs.com/staff_resources/powerteacher,"HTTPSConnectionPool(host='gateway.psisjs.com', port=443): Max retries exceeded with url: /teachers (Caused by ConnectTimeoutError(<HTTPSConnection(host='gateway.psisjs.com', port=443) at 0x15addb2c050>, 'Connection to gateway.psisjs.com timed out. (connect timeout=15)'))"
+Gateway Regional High School District,https://www.gatewayhs.com/staff_resources/evaluate,403 Client Error: Forbidden for url: https://edu.standardforsuccess.com/staff/overview
+Gateway Regional High School District,https://www.gatewayhs.com/staff_resources/Evaluate,403 Client Error: Forbidden for url: https://edu.standardforsuccess.com/staff/overview
+Leonia Public School District,http://www.leoniaschools.org,'str' object has no attribute 'get'
+Little Falls Township Public School District,http://www.lfschools.org,'str' object has no attribute 'get'
+Linwood City School District,http://www.linwoodschools.org,'str' object has no attribute 'get'
+Livingston Board of Education School District,http://www.livingston.org,'str' object has no attribute 'get'
+Lopatcong Township School District,http://www.lopatsd.org,'str' object has no attribute 'get'
+Longport Board of Education,http://none,'str' object has no attribute 'get'
+Kinnelon School District,https://www.kinnelonpublicschools.org/districtprofile/district-administration/zaleskig@kinnelon.org,404 Client Error: Not Found for url: https://www.kinnelonpublicschools.org/districtprofile/district-administration/zaleskig@kinnelon.org
+Lacey Township School District,https://www.laceyschools.org/fs/resource-manager/view/89ce6132-4ed7-48bd-9497-161720ad4904,Not HTML
+Lacey Township School District,https://www.laceyschools.org/fs/resource-manager/view/df1e9723-684a-4596-a2f8-3c38df2e7b08,Not HTML
+Jackson Township School District,https://genesis.jacksonsd.org/genesis/sis/view?gohome=true,"HTTPSConnectionPool(host='genesis.jacksonsd.org', port=443): Max retries exceeded with url: /genesis/sis/view?gohome=true (Caused by ConnectTimeoutError(<HTTPSConnection(host='genesis.jacksonsd.org', port=443) at 0x15ad781c190>, 'Connection to genesis.jacksonsd.org timed out. (connect timeout=15)'))"
+Jackson Township School District,https://www.jacksonsd.org/for-staff/staff-logins/iobservation-staff-login,403 Client Error: Forbidden for url: https://www.effectiveeducators.com/login/auth
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/teacher-summative.docx,Not HTML
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/casemanager-summative.docx,Not HTML
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/guidance-summative.docx,Not HTML
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/mediaspecialist-summative.docx,Not HTML
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/nurse-summative.docx,Not HTML
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/studentinjuryreportform.doc,Not HTML
+Lower Cape May Regional School District,https://lcmrschooldistrict.com/faculty/curriculum-template.docx,Not HTML
+North Warren Regional,http://www.northwarren.org,'str' object has no attribute 'get'
+Lawrence Township Public School District,https://www.ltps.org/departments/office-of-the-superintendent/Superintendent Dr. Robyn Klim: Service and community mark the end of school year,404 Client Error: Not Found for url: https://www.ltps.org/departments/office-of-the-superintendent/Superintendent%20Dr.%20Robyn%20Klim:%20Service%20and%20community%20mark%20the%20end%20of%20school%20year
+Lawrence Township Public School District,https://www.ltps.org/fs/resource-manager/view/70c143b7-5b05-4596-87a7-2ec01bad215c,Not HTML
+Lawrence Township Public School District,https://www.ltps.org/fs/resource-manager/view/e13861bd-0acc-4324-8fc1-40e24e491230,Not HTML
+Kenilworth School District,https://www.kenilworthschools.com/board_of_education/leadership/portlets/,404 Client Error: Not Found for url: https://www.kenilworthschools.com/board_of_education/leadership/portlets/
+Hoboken Public School District,https://www.hoboken.k12.nj.us/log-_in_options/t_i_d_e_testing_login_-_s_t_a_f_f,403 Client Error: Forbidden for url: https://nj.cambiumtds.com/testadmin
+Hoboken Public School District,https://www.hoboken.k12.nj.us/central_office/office_of_the_superintendent/Superintendants_Contract/,Not HTML
+Hoboken Public School District,https://www.hoboken.k12.nj.us/central_office/office_of_the_superintendent/Assistant_Superintendent_Contracts/,Not HTML
+Hoboken Public School District,https://www.hoboken.k12.nj.us/central_office/office_of_the_superintendent/Business_Administrator_Contract/,Not HTML
+Hoboken Public School District,https://www.hoboken.k12.nj.us/central_office/office_of_the_superintendent/Proposed_Amended_Superintendents_Contract-Public_Hearing_to_be_held_on_June_15_2026/,Not HTML
+Lyndhurst Public School District,https://forms.lyndhurstschools.net,"HTTPSConnectionPool(host='forms.lyndhurstschools.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='forms.lyndhurstschools.net', port=443) at 0x15ad6be3c50>, 'Connection to forms.lyndhurstschools.net timed out. (connect timeout=15)'))"
+Lyndhurst Public School District,https://mail.lyndhurstschools.net/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.lyndhurstschools.net%2fowa,"HTTPSConnectionPool(host='mail.lyndhurstschools.net', port=443): Max retries exceeded with url: /owa/auth/logon.aspx?replaceCurrent=1&url=https%3A%2F%2Fmail.lyndhurstschools.net%2Fowa (Caused by ConnectTimeoutError(<HTTPSConnection(host='mail.lyndhurstschools.net', port=443) at 0x15ad15e4690>, 'Conn"
+Middlesex Borough School District,http://www.middlesex.k12.nj.us,'str' object has no attribute 'get'
+Lakewood Township School District,https://www.lakewoodpiners.org/fs/resource-manager/view/13416793-34cd-48b1-b5a0-766c96d94d1f,Not HTML
+Lakewood Township School District,https://www.lakewoodpiners.org/fs/resource-manager/view/d3dc1d39-7d70-4b32-b23c-3e88a3e6bcf9,Not HTML
+Knowlton Township School District,https://www.knowltonschool.com/for_staff/trouble_ticket,401 Client Error: Unauthorized for url: https://docs.google.com/forms/d/e/1FAIpQLSc3qmTugvL2y_XMcb3BS6zQlltl6Kb1zSOYAsXdCHn_ao9X_g/viewform?usp=dialog
+Knowlton Township School District,https://www.knowltonschool.com/for_staff/trouble_ticket/,401 Client Error: Unauthorized for url: https://docs.google.com/forms/d/e/1FAIpQLSc3qmTugvL2y_XMcb3BS6zQlltl6Kb1zSOYAsXdCHn_ao9X_g/viewform?usp=dialog
+Lafayette Township School District,https://www.ltes.org/staff_q-_links/aesop,"HTTPConnectionPool(host='login.frontlineeducation.com', port=80): Max retries exceeded with url: /login?signin=18e0e9aa33d7c7aae9f0b57a5f12499c&productId=ABSMGMT&clientId=ABSMGMT (Caused by ResponseError('too many 503 error responses'))"
+Lafayette Township School District,https://www.ltes.org/staff_q-_links/i_e_p_direct,406 Client Error: Not Acceptable for url: https://www.iepdirect.com/iepdotnet/hub/login.aspx
+Lafayette Township School District,http://www.ltes.org/staff_q-_links/outlook-_office_365,404 Client Error: Not Found for url: https://www.ltes.org/staff_q-_links/outlook-_office_365
+Margate City School District,https://www.margateschools.org/fs/resource-manager/view/0e06e1e0-ba40-421f-98c4-7479aaf12d30,Not HTML
+Monroe Township Public School District,http://www.monroetwp.k12.nj.us/,'str' object has no attribute 'get'
+Mount Arlington Public School District,http://www.mtartlingtonk8.org,'str' object has no attribute 'get'
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/staff-directory,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/staff-directory
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Calendar,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Calendar
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/School-Bell-Schedule/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/School-Bell-Schedule/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Curriculum/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Curriculum/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Morning-Announcements/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Morning-Announcements/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Home/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Home/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Home/Registration/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Home/Registration/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Parent-Handbook/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Parent-Handbook/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Locations/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Locations/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Curriculum/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Curriculum/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Early-Childhood-Advisory-Council-ECAC/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Early-Childhood-Advisory-Council-ECAC/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Resources/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Resources/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Staff/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/Staff/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/FAQ/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Preschool/FAQ/index.html
+Mine Hill Township School District,https://www.minehillcas.org/staff-directory/Our-School/CAS-Video-Production/index.html,404 Client Error: Not Found for url: https://www.minehillcas.org/staff-directory/Our-School/CAS-Video-Production/index.html
+Mullica Township School District,http://www.mullicaschools.com,'str' object has no attribute 'get'
+National Park Borough School District,http://www.npelem.com,'str' object has no attribute 'get'
+Netcong School District,http://www.netcongschool.org,'str' object has no attribute 'get'
+Newfield Boro School District,http://n/a,'str' object has no attribute 'get'
+North Haledon School District,http://www.nhschools.net/nh,'str' object has no attribute 'get'
+North Wildwood School District,http://www.mmace.com,'str' object has no attribute 'get'
+Mount Olive Township School District,https://www.motsd.org/fs/resource-manager/view/c233dbb5-70b7-4c66-ac9d-f1b39751da9a,Not HTML
+North Bergen School District,https://www.northbergen.k12.nj.us/apps/pages/index.jsp?uREC_ID=1213615&type=d&pREC_ID=2368485,401 Client Error: Unauthorized for url: https://docs.google.com/forms/d/e/1FAIpQLSfhNG5c85Wqo_nyKRfVO4VXOTexKbPko3OcxH5htjWHo2PDXQ/viewform
+Kingsway Regional School District,https://www.krsd.org/academics/academic-programming-course-selection/specialized-academic-programs/business-leadership-academy,Exceeded 30 redirects.
+Palmyra Public School District,http://palmyraschools.com/,'str' object has no attribute 'get'
+ORANGE BOARD OF EDUCATION School District,http://www.orange.k12.nj.us,'str' object has no attribute 'get'
+Monroe Township School District,https://www.monroe.k12.nj.us/fs/resource-manager/view/2ae66a1f-137f-44af-b99d-9073162f6aaa,Not HTML
+Piscataway Township School District,http://www.piscatawayschools.org,'str' object has no attribute 'get'
+Paulsboro School District,https://paulsboroschools.org/office-of-the-superintendent/,"HTTPSConnectionPool(host='paulsboroschools.org', port=443): Max retries exceeded with url: /office-of-the-superintendent/ (Caused by ResponseError('too many 429 error responses'))"
+Paulsboro School District,https://paulsboroschools.org/staff/,"HTTPSConnectionPool(host='paulsboroschools.org', port=443): Max retries exceeded with url: /staff/ (Caused by ResponseError('too many 429 error responses'))"
+Paulsboro School District,https://paulsboroschools.org/staff-info,"HTTPSConnectionPool(host='paulsboroschools.org', port=443): Max retries exceeded with url: /staff-info (Caused by ResponseError('too many 429 error responses'))"
+North Hanover Township School District,https://www.nhanover.com/for_staff/portlets/,404 Client Error: Not Found for url: https://www.nhanover.com/for_staff/portlets/
+Township of Ocean School District,https://www.oceanschools.org/our-district/administration/ischwartz@oceanschools.org,404 Client Error: Not Found for url: https://www.oceanschools.org/our-district/administration/ischwartz@oceanschools.org
+Township of Ocean School District,https://www.oceanschools.org/staff-resources/kgasser@oceanschools.org,404 Client Error: Not Found for url: https://www.oceanschools.org/staff-resources/kgasser@oceanschools.org
+Palisades Park School District,https://www.palpkschools.org/fs/resource-manager/view/7b8d9a98-016d-4809-bc4d-5344b56c0dd1,Not HTML
+Moorestown Township Public School District,https://www.mtps.com/for_staff/staff_e-mail_outlook,"HTTPSConnectionPool(host='mail.mtps.com', port=443): Max retries exceeded with url: /owa/auth/logon.aspx?replaceCurrent=1&url=https%3A%2F%2Fmail.mtps.com%2FOWA%2F (Caused by ConnectTimeoutError(<HTTPSConnection(host='mail.mtps.com', port=443) at 0x15ae4ac7d90>, 'Connection to mail.mtps.com timed out"
+Moorestown Township Public School District,https://www.mtps.com/for_staff/genesis_s_i_s,"HTTPSConnectionPool(host='genesis.mtps.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='genesis.mtps.com', port=443) at 0x15adf6a02d0>, 'Connection to genesis.mtps.com timed out. (connect timeout=15)'))"
+Moorestown Township Public School District,https://www.mtps.com/for_staff/school_fi_employee_portal,"HTTPSConnectionPool(host='portal.mtps.com', port=443): Max retries exceeded with url: /schoolfi (Caused by ConnectTimeoutError(<HTTPSConnection(host='portal.mtps.com', port=443) at 0x15ae4289590>, 'Connection to portal.mtps.com timed out. (connect timeout=15)'))"
+Moorestown Township Public School District,https://www.mtps.com/for_staff/media_resources/us_copyright_office_circular_21,Not HTML
+Riverdale School District,http://www.rpsnj.org,'str' object has no attribute 'get'
+Riverside Township School District,http://www.riverside.k12.nj.us,'str' object has no attribute 'get'
+Roosevelt Borough Public School District,http://www.rps1.org,'str' object has no attribute 'get'
+Roselle Public School District,http://WWW.ROSELLESCHOOLS.ORG,'str' object has no attribute 'get'
+Mahwah Township Public School District,https://www.mahwah.k12.nj.us/fs/elements/17029/print?,406 Client Error: Not Acceptable for url: https://www.mahwah.k12.nj.us/fs/elements/17029/print
+Roselle Park Public School District,http://www.rpsd.org,'str' object has no attribute 'get'
+Rockleigh School District,http://none,'str' object has no attribute 'get'
+Riverton School District,https://rivertonschool.com/?page_id=2097,404 Client Error: Not Found for url: https://rivertonschool.com/?page_id=2097
+Montgomery Township School District,https://www.mtsd.k12.nj.us/fs/resource-manager/view/8586abd0-37a1-4232-b7db-6ac57de6dfce,Not HTML
+Montgomery Township School District,https://www.mtsd.k12.nj.us/fs/resource-manager/view/29aa68b7-d268-4069-9162-b33ab57fb61d,Not HTML
+Montgomery Township School District,https://www.mtsd.k12.nj.us/fs/resource-manager/view/168ead98-af9c-46dc-a678-cbf756ef40e2,Not HTML
+Montgomery Township School District,https://www.mtsd.k12.nj.us/fs/resource-manager/view/cfaf6d3c-69b5-4f3f-9f61-0f52ae036723,Not HTML
+Montgomery Township School District,https://www.mtsd.k12.nj.us/fs/resource-manager/view/54f19900-905a-4f72-9f65-b8be0f3c5b9a,Not HTML
+Sea Isle City Board of Education,http://www.seaislecitynj.us/SchoolBoard,'str' object has no attribute 'get'
+Seaside Park Borough School District,http://www.seasideparkschool.com,'str' object has no attribute 'get'
+Shrewsbury Borough School District,http://www.sbs.k12.nj.us/sbs,'str' object has no attribute 'get'
+Old Tappan Public School District,https://www.oldtappanschools.org/administration/business_office/o_p_r_a_request_form,Not HTML
+South Harrison Township School District,http://www.southharrison.k12.nj.us,'str' object has no attribute 'get'
+Delsea Regional High School District,http://www.delsearegional.us,'str' object has no attribute 'get'
+Southern Regional School District,http://www.srsd.net,'str' object has no attribute 'get'
+Stone Harbor School District,http://www.avalonstoneharborschools.org,'str' object has no attribute 'get'
+Stow Creek Township School District,http://www.greenwichstowcreekpartnershipschools.org,'str' object has no attribute 'get'
+Tabernacle Township School District,http://www.tabschools.org,'str' object has no attribute 'get'
+Totowa Public School District,http://www.totowa.k12.nj.us,'str' object has no attribute 'get'
+Sussex County Technical School District,https://www.sussextech.org/apps/pages/index.jsp?uREC_ID=2822724&type=u,404 Client Error: Not Found for url: https://www.sussextech.org/apps/pages/index.jsp?uREC_ID=2822724&type=u
+Sussex County Technical School District,https://www.sussextech.org/cdn-cgi/l/email-protection,404 Client Error: Not Found for url: https://www.sussextech.org/cdn-cgi/l/email-protection
+Pittsgrove Township School District,https://www.pittsgrove.net/for_staff/ci_office_faculty_quick_links,401 Client Error: Unauthorized for url: https://docs.google.com/spreadsheets/d/131NSA0YOyOpeWmj0EHFCNiroklklHFB1PPHrWzeBEGE/edit?gid=1589674920#gid=1589674920
+Pittsgrove Township School District,https://www.pittsgrove.net/for_staff/ci_office_faculty_quick_links/,401 Client Error: Unauthorized for url: https://docs.google.com/spreadsheets/d/131NSA0YOyOpeWmj0EHFCNiroklklHFB1PPHrWzeBEGE/edit?gid=1589674920#gid=1589674920
+South Hackensack School District,https://mail.shmemorial.org,"HTTPSConnectionPool(host='mail.shmemorial.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='mail.shmemorial.org', port=443): Failed to resolve 'mail.shmemorial.org' ([Errno 11001] getaddrinfo failed)""))"
+Trenton Public School District,http://www.trenton.k12.nj.us,'str' object has no attribute 'get'
+Teaneck School District,https://www.teaneckschools.org/Downloads/b7c28cca_RTF.rtf?v=0,Not HTML
+Teaneck School District,https://www.teaneckschools.org/Downloads/08dd187e_RTF.rtf?v=0,Not HTML
+Teaneck School District,https://www.teaneckschools.org/Downloads/c97738db_RTF.rtf,Not HTML
+Union Township School District,https://www.uniontwpschool.org/apps/pages/index.jsp?uREC_ID=3776113&type=d&pREC_ID=2445660,404 Client Error: Not Found for url: https://www.uniontwpschool.org/apps/pages/index.jsp?uREC_ID=3776113&type=d&pREC_ID=2445660
+Somerset County Vocational and Technical School District,http://www.scvths.org/scvths/alumni/scvths%20alumni%20directory/90%27s/tellis@newjerseybobcat.net,404 Client Error: Not Found for url: https://www.scvths.org/scvths/alumni/scvths%20alumni%20directory/90%27s/tellis@newjerseybobcat.net
+Tuckerton Borough School District,https://www.tesnj.com/fs/resource-manager/view/641d9f8b-b3fc-4f09-b9b9-d34cb285c425,Not HTML
+Tuckerton Borough School District,https://www.tesnj.com/fs/resource-manager/view/739b9e09-a425-48f6-8364-fbea041404ee,Not HTML
+Waldwick School District,http://www.waldwickschools.org,'str' object has no attribute 'get'
+Robbinsville Public School District,http://www.robbinsville.k12.nj.us/,'str' object has no attribute 'get'
+Washington Boro School District,http://www.washboroschools.org,'str' object has no attribute 'get'
+Washington Township School District,http://www.washtwpsd.org,'str' object has no attribute 'get'
+Wenonah  Boro School District,https://www.wenonahsd.org/staff/mjankauskas@wenonahschool.org,404 Client Error: Not Found for url: https://www.wenonahsd.org/staff/mjankauskas@wenonahschool.org
+Warren Township School District,http://www.warrentboe.org,'str' object has no attribute 'get'
+Washington Township School District,http://www.wtgreenbank.k12.nj.us,'str' object has no attribute 'get'
+West Wildwood School District,http://n/a,'str' object has no attribute 'get'
+Wildwood City School District,http://nj02210961.schoolwires.net/,'str' object has no attribute 'get'
+Woodland Park School District,https://www.wpschools.org/fs/resource-manager/view/895f2616-fa84-4bbb-b4b5-68b8877dfb56,Not HTML
+Woodbury Heights Public School District,http://www.woodburyhtselem.com,'str' object has no attribute 'get'
+Essex Regional Educational Services Commission,http://www.eresc.org,'str' object has no attribute 'get'
+Somerset County Educational Services Commission School Distr,https://www.somersetcountyesc.org/cdn-cgi/l/email-protection,404 Client Error: Not Found for url: https://www.somersetcountyesc.org/cdn-cgi/l/email-protection
+Henry Hudson Regional School District,http://www.henryhudsonreg.k12.nj.us,'str' object has no attribute 'get'
+Greenwich Stow Creek Regional School District,http://www.gscnj.org,'str' object has no attribute 'get'
+Paterson Preparatory Charter School,http://patersonprep.org/,'str' object has no attribute 'get'
+Somerdale School District,https://www.somerdale-park.org/administration/business_office/newvendorpacket,Not HTML
+Somerdale School District,https://www.somerdale-park.org/administration/business_office/leaveabsence,Not HTML
+Somerdale School District,https://www.somerdale-park.org/administration/business_office/opra,Not HTML
+Somerdale School District,https://www.somerdale-park.org/staff_resources/csi,"HTTPSConnectionPool(host='personnel.somerdale-park.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='personnel.somerdale-park.org', port=443) at 0x15ad15e7750>, 'Connection to personnel.somerdale-park.org timed out. (connect timeout=15)'))"
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/d9530207-c732-4eb3-81ff-d5d0658eacc5,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/e80fb902-354c-4ece-ba25-827658a2415d,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/afd3f005-e230-442e-b804-9c05e9d1de87,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/b2d7c434-750c-44de-a6ce-77eef54a8f1d,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/0b37fe18-1cf1-45d4-9da4-27a2152e2a01,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/420a61a9-6b56-4a0d-949f-2f9a8c70dd0e,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/cdcadcc8-244d-4c01-ac54-dfb75b0baca7,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/5b6c1b83-1298-45b9-a60c-90c058487ff5,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/de1f7eda-c93a-4f15-ad31-1a813ece3685,Not HTML
+Wall Township Public School District,https://www.wallpublicschools.org/fs/resource-manager/view/b4c29796-c255-40d9-a382-dfa162558baa,Not HTML
+Educational Services Commission of New Jersey,https://www.escnj.us/fs/resource-manager/view/b6294e54-d2b3-437b-85a2-25bdb98befd9,Not HTML
+Educational Services Commission of New Jersey,https://www.escnj.us/fs/resource-manager/view/ac613b95-10af-4c72-98fa-8bd5b19457a9,Not HTML
+Educational Services Commission of New Jersey,https://www.escnj.us/fs/resource-manager/view/eaa3aa9b-3fea-4ae7-bc49-58af9a85ab39,Not HTML
+Waterford Township School District,https://www.wtsd.org/fs/resource-manager/view/e4f21fcd-b345-4dcb-ba4a-e033e81920dc,Not HTML
+Waterford Township School District,https://www.wtsd.org/fs/resource-manager/view/19e36943-5856-4218-ac29-e168af393225,Not HTML
+Thrive Charter School,https://www.thrivecharterschool.org/for_staff/portlets/,404 Client Error: Not Found for url: https://www.thrivecharterschool.org/for_staff/portlets/
+Thrive Charter School,https://www.thrivecharterschool.org/for_staff/for_staff/portlets/,404 Client Error: Not Found for url: https://www.thrivecharterschool.org/for_staff/for_staff/portlets/
+West Deptford Township School District,https://www.wdeptford.k12.nj.us/for_staff/app_request_form,401 Client Error: Unauthorized for url: https://docs.google.com/forms/d/e/1FAIpQLSdYULvjx__40T_-pyNF7OYRGdbLnSDIgvBGqzE-yb6SZ78E3A/viewform?usp=send_form
+West Deptford Township School District,https://www.wdeptford.k12.nj.us/administration/admin_info/administrative_links/elan_online_users_guide,Not HTML
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/may_2018_archived,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/communications_school_year_2023-2024,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/communications_school_year_2022-2023,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/communications_school_year_2021-2022,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/communications_school_year_2020-2021,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/communications_school_year_2019-2020,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/community_outreach,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/podcasts,Exceeded 30 redirects.
+Montclair Public School District,https://www.montclairps.org/departments/superintendent/communications_school_year_2024-2025/s_y_25-26/videos,Exceeded 30 redirects.

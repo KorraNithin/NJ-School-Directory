@@ -1,0 +1,699 @@
+﻿district,website,administrator_count,status
+School District of the Chathams,http://www.chatham-nj.org,0,NEEDS EXTRACTION
+Morris-Union Jointure Commission School District,http://www.mujc.org,6,HAS ADMINISTRATORS
+Atlantic County Special Services School District,http://www.acsssd.net,5,HAS ADMINISTRATORS
+South  Bergen Jointure Commission School District,http://www.njsbjc.org,17,HAS ADMINISTRATORS
+Great Meadows Regional School District,http://www.gmrsd.com,3,HAS ADMINISTRATORS
+Somerset Hills Regional School District,http://www.shsd.org/,15,HAS ADMINISTRATORS
+Englewood on the Palisades Charter School,http://www.englewoodcharterschool.com,3,HAS ADMINISTRATORS
+Teaneck Community Charter School,http://www.tccsnj.org,6,HAS ADMINISTRATORS
+Chartertech High School for the Performing Arts,http://www.chartertech.org,7,HAS ADMINISTRATORS
+Discovery Charter School,http://www.discoverycs.org,1,HAS ADMINISTRATORS
+East Orange Community Charter School,http://www.theeoccs.org,0,NEEDS EXTRACTION
+Marion P. Thomas Charter School,http://www.mptcs.org,15,HAS ADMINISTRATORS
+New Horizons Community Charter School,http://www.nhccschools.org/,4,HAS ADMINISTRATORS
+North Star Academy Charter School,http://northstar.uncommonschools.org/,0,NEEDS EXTRACTION
+Robert Treat Academy Charter School,http://www.RobertTreatAcademy.org,0,NEEDS EXTRACTION
+Maria L. Varisco-Rogers Charter School,http://www.mlvrcs.org,0,NEEDS EXTRACTION
+Elysian Charter School,http://www.ecsnj.org,0,NEEDS EXTRACTION
+Hoboken Charter School District,http://www.hobokencs.org,0,NEEDS EXTRACTION
+Jersey City Community Charter School,http://www.jcccsonline.org,3,HAS ADMINISTRATORS
+Jersey City Golden Door Charter School,http://www.goldendoorschool.org,4,HAS ADMINISTRATORS
+The Learning Community Charter School,http://www.lccsnj.org,4,HAS ADMINISTRATORS
+Soaring Heights Charter School,http://www.shcsjc.org,1,HAS ADMINISTRATORS
+International Charter School of Trenton,http://Internationalcs.org,3,HAS ADMINISTRATORS
+Pace Charter School of Hamilton,http://www.pacecharter.com/pcs/.,5,HAS ADMINISTRATORS
+Princeton Charter School,http://princetoncharter.org/,1,HAS ADMINISTRATORS
+The Village Charter School,http://www.villagecharter.org,0,NEEDS EXTRACTION
+Greater Brunswick Charter School,http://www.greaterbrunswick.org,0,NEEDS EXTRACTION
+Academy Charter High School,http://www.academycharterhs.org,1,HAS ADMINISTRATORS
+Red Bank Charter School,http://www.redbankcharterschool.com,3,HAS ADMINISTRATORS
+Hunterdon County Vocational School District,http://www.hcpolytech.org,5,HAS ADMINISTRATORS
+Unity Charter School,http://www.unitycharterschool.org,2,HAS ADMINISTRATORS
+Classical Academy Charter School of Clifton,http://www.classicalacademy.org,3,HAS ADMINISTRATORS
+Sussex County Technology Charter School,http://www.sussexcharter.org,0,NEEDS EXTRACTION
+The Queen City Academy Charter School District,http://www.queencity.edu,0,NEEDS EXTRACTION
+Gray Charter School,http://www.graycharterschool.com,5,HAS ADMINISTRATORS
+Bayshore Jointure Commission School District,http://www.theshorecenter.org,4,HAS ADMINISTRATORS
+TEAM Academy Charter School,http://www.kippnj.org,0,NEEDS EXTRACTION
+University Academy Charter High School,http://www.uachs.org,5,HAS ADMINISTRATORS
+Hope Academy Charter School,http://www.hopeacademycs.org,2,HAS ADMINISTRATORS
+LEAP Academy University Charter School,http://www.leapacademycharter.org,9,HAS ADMINISTRATORS
+Ridge and Valley Charter School,http://www.ridgeandvalley.org,0,NEEDS EXTRACTION
+Union County TEAMS Charter School-High School/College LA,http://www.ucteams.org,5,HAS ADMINISTRATORS
+OFFICE OF EDUCATION DEPARTMENT OF CHILDREN AND FAMILIES,,0,NEEDS EXTRACTION
+Paterson Charter School for Science and Technology,http://www.pcsst.org,0,NEEDS EXTRACTION
+OFFICE OF EDUCATIONAL SERVICES DEPARTMENT OF CORRECTIONS,,0,NEEDS EXTRACTION
+OFFICE OF EDUCATION JUVENILE JUSTICE COMMISSION,,0,NEEDS EXTRACTION
+Central Jersey College Prep Charter School,http://www.cjcollegeprep.org,0,NEEDS EXTRACTION
+Absecon Public Schools District,http://www.abseconschools.org/,0,NEEDS EXTRACTION
+Alexandria Township School District,http://www.alexandriaschools.org,0,NEEDS EXTRACTION
+Bergen Arts and Science Charter School,http://ilearnschools.org/bergen-arts-science-charter-school/,0,NEEDS EXTRACTION
+Foundation Academy Charter School,http://www.foundationacademies.org,0,NEEDS EXTRACTION
+Community Charter School of Paterson,http://www.ccsp.org,0,NEEDS EXTRACTION
+Pride Academy Charter School District,http://www.prideacs.org,3,HAS ADMINISTRATORS
+Allamuchy Township School District,http://www.aes.k12.nj.us,3,HAS ADMINISTRATORS
+Paul Robeson Charter School for the Humanities,http://www.paulrobesoncs.org,4,HAS ADMINISTRATORS
+Burch Charter School of Excellence,http://www.burchcharterschool.org,4,HAS ADMINISTRATORS
+The Ethical Community Charter School School Distirct,http://www.teccs-jc.org/,0,NEEDS EXTRACTION
+Vineland Public Charter School,http://www.vinelandpubliccharterschool.org/,2,HAS ADMINISTRATORS
+Newark Educators Community Charter School,http://www.newarkeducators.org,1,HAS ADMINISTRATORS
+Riverbank Charter School of Excellence,http://riverbank.charter.k12.nj.us,2,HAS ADMINISTRATORS
+Hoboken Dual Language Charter School,http://holahoboken.org/,0,NEEDS EXTRACTION
+Hatikvah International Academy Charter School,http://www.hatikvahcharterschool.org,0,NEEDS EXTRACTION
+Barack Obama Green Charter School District,http://www.barackobamagreencharterschool.org,0,NEEDS EXTRACTION
+Academy for Urban Leadership Charter School,http://www.aulcs.org,0,NEEDS EXTRACTION
+Benjamin Banneker Preparatory Charter School,http://www.bannekerprep.com,4,HAS ADMINISTRATORS
+Passaic Arts and Science Charter School,http://ilearnschools.org/passaic-arts-science-charter-school/,0,NEEDS EXTRACTION
+Thomas Edison EnergySmart Charter School,http://www.teecs.org,0,NEEDS EXTRACTION
+John P Holland Charter School School District,http://www.jphcs.org,0,NEEDS EXTRACTION
+Millville Public Charter School District,http://millvillepubliccharterschool.org,0,NEEDS EXTRACTION
+Allendale Public School District,http://www.allendalek8.com,0,NEEDS EXTRACTION
+Great Oaks Legacy Charter School,http://www.greatoakslegacy.org,0,NEEDS EXTRACTION
+Roseville Community Charter School,http://www.rosevillecharter.org,2,HAS ADMINISTRATORS
+Dr Lena Edwards Academic Charter School,http://www.drlenaedwardscharterschool.org,2,HAS ADMINISTRATORS
+BelovED Community Charter,http://www.belovedccs.org,2,HAS ADMINISTRATORS
+Hope Community Charter School,http://www.hopecommunitycharterschool.org,0,NEEDS EXTRACTION
+Philip's Academy Charter School,http://www.pacsnewark.org,1,HAS ADMINISTRATORS
+Paterson Arts and Science Charter School,http://ilearnschools.org/paterson-arts-science-charter-school/,0,NEEDS EXTRACTION
+Compass Academy Charter School,http://www.compassacademycharter.org,0,NEEDS EXTRACTION
+Jersey City Global Charter School,http://www.jcgcs.org,0,NEEDS EXTRACTION
+South Hunterdon Regional School District,http://www.shrsd.org,0,NEEDS EXTRACTION
+Trenton STEM-to-Civics Charter School,http://www.stemcivics.org,0,NEEDS EXTRACTION
+Atlantic Community Charter School,http://www.atlanticcommunitycharter.com,2,HAS ADMINISTRATORS
+Mastery Schools of Camden Inc.,http://www.masterynj.org,0,NEEDS EXTRACTION
+Link Community Charter School,http://www.linkschool.org,2,HAS ADMINISTRATORS
+Camden Prep Inc.,http://www.camdenprep.uncommonschools.org,0,NEEDS EXTRACTION
+KIPP: Cooper Norcross A New Jersey Nonprofit Corporation,http://www.kippnj.org,0,NEEDS EXTRACTION
+Marie H. Katzenbach School for the Deaf,http://www.mksd.org,0,NEEDS EXTRACTION
+College Achieve Central Charter School,http://www.collegeachievecentral.org/,0,NEEDS EXTRACTION
+Allenhurst School District,http://www.allenhurstnj.org,3,HAS ADMINISTRATORS
+Empowerment Academy Charter School,http://www.empacad.org,0,NEEDS EXTRACTION
+Bridgeton Public Charter School,http://www.bridgetonpubliccharterschool.org,0,NEEDS EXTRACTION
+Principle Academy Charter School,http://www.principleacademycharter.org,0,NEEDS EXTRACTION
+Philip's Academy Charter School of Paterson,http://www.pacspaterson.org,4,HAS ADMINISTRATORS
+Camden's Promise Charter School,http://www.promiseacademycharter.org,0,NEEDS EXTRACTION
+Cresthaven Academy Charter School,http://www.cresthavenacademy.org,0,NEEDS EXTRACTION
+Hudson Arts and Science Charter School,http://ilearnschools.org/hudson-arts-science-charter-school/,0,NEEDS EXTRACTION
+LEAD Charter School,http://leadcharterschool.org/,0,NEEDS EXTRACTION
+Ocean Academy Charter School,http://www.oceanacademycharter.com/,1,HAS ADMINISTRATORS
+Loch Arbour School District,http://www.locharbournj.us/,0,NEEDS EXTRACTION
+College Achieve Greater Asbury Park Charter School Distr,http://www.collegeachieveasbury.org,0,NEEDS EXTRACTION
+College Achieve Paterson Charter School,http://collegeachievepaterson.org,4,HAS ADMINISTRATORS
+Achievers Early College Prep Charter School,http://achieversecp.org/,0,NEEDS EXTRACTION
+Middlesex County STEM Charter School,http://www.middlesexcharter.org,0,NEEDS EXTRACTION
+BERGEN CO JDC,,0,NEEDS EXTRACTION
+ESSEX CO JDC,,0,NEEDS EXTRACTION
+OCEAN CO JDC,,0,NEEDS EXTRACTION
+MIDDLESEX CO JDC,,0,NEEDS EXTRACTION
+BURLINGTON CO JDC,,0,NEEDS EXTRACTION
+CAMDEN CO JDC,,0,NEEDS EXTRACTION
+ATLANTIC CO JDC,,0,NEEDS EXTRACTION
+MORRIS CO JDC,,0,NEEDS EXTRACTION
+Creativity CoLaboratory Charter School,http://c3school.us/,0,NEEDS EXTRACTION
+Alloway Twp School District,http://www.allowayschool.org,0,NEEDS EXTRACTION
+Alpha Borough School District,http://www.apsedu.org,0,NEEDS EXTRACTION
+Alpine School District,http://www.alpineschool.org,7,HAS ADMINISTRATORS
+Andover Regional School District,http://www.andoverregional.org,1,HAS ADMINISTRATORS
+Asbury Park School District,http://www.asburypark.k12.nj.us,0,NEEDS EXTRACTION
+Atlantic City School District,http://www.acboe.org,3,HAS ADMINISTRATORS
+Atlantic County Vocational School District,http://www.acitech.org,8,HAS ADMINISTRATORS
+Audubon Public School District,http://www.audubonschools.org,5,HAS ADMINISTRATORS
+Avalon School District,http://www.avalonstoneharborschools.org,0,NEEDS EXTRACTION
+Avon Boro School District,http://WWW.AVONSCHOOL.COM,0,NEEDS EXTRACTION
+Barrington School District,http://www.barringtonschools.net,5,HAS ADMINISTRATORS
+Bass River Township Board of Education,http://WWW.BASSRIVERSCHOOLDISTRICT.ORG,0,NEEDS EXTRACTION
+Bay Head Borough School District,http://www.bayheadschool.org,4,HAS ADMINISTRATORS
+Bayonne School District,http://www.bboed.org,40,HAS ADMINISTRATORS
+Beach Haven School District,http://www.BeachHavenSchool.com,0,NEEDS EXTRACTION
+Bedminster Township Public School District,http://www.bedminsterschool.org,4,HAS ADMINISTRATORS
+Belleville Public School District,http://www.bellevilleschools.org,0,NEEDS EXTRACTION
+Bellmawr Public School District,http://www.bellmawrschools.org,0,NEEDS EXTRACTION
+Belmar Elementary School District,http://www.belmar.k12.nj.us,0,NEEDS EXTRACTION
+Belvidere School District,http://www.belvideresd.org,7,HAS ADMINISTRATORS
+Bergen County Special Services School District,http://bcss.bergen.org,0,NEEDS EXTRACTION
+Bergen County Vocational Technical School District,http://bcts.bergen.org,0,NEEDS EXTRACTION
+Bergenfield Borough School District,http://www.bergenfield.org,1,HAS ADMINISTRATORS
+Berkeley Heights School District,http://www.bhpsnj.org,0,NEEDS EXTRACTION
+Berkeley Township School District,http://www.btboe.org,1,HAS ADMINISTRATORS
+Berlin Borough School District,http://www.bcsberlin.org,0,NEEDS EXTRACTION
+Berlin Township School District,http://www.btwpschools.org,0,NEEDS EXTRACTION
+Bernards Township School District,http://www.bernardsboe.com,0,NEEDS EXTRACTION
+Bethlehem Township School District,http://www.btschools.org,0,NEEDS EXTRACTION
+Beverly City School District,http://www.beverlycityschool.org,3,HAS ADMINISTRATORS
+Black Horse Pike Regional School District,http://www.bhprsd.org,8,HAS ADMINISTRATORS
+Blairstown Elementary Township School District,http://www.blairstownelem.net,0,NEEDS EXTRACTION
+Bloomfield Township School District,http://www.bloomfield.k12.nj.us,22,HAS ADMINISTRATORS
+Bloomingdale School District,http://www.bpsnj.org,6,HAS ADMINISTRATORS
+Bloomsbury Borough School District,http://www.bburyes.org,1,HAS ADMINISTRATORS
+Bogota Public School District,http://www.bogotaboe.com,0,NEEDS EXTRACTION
+Boonton Town Public School District,http://www.boontonschools.org,0,NEEDS EXTRACTION
+Boonton Township School District,http://www.btrvs.org,0,NEEDS EXTRACTION
+Bordentown Regional School District,http://www.bordentown.k12.nj.us,0,NEEDS EXTRACTION
+Bound Brook School District,http://bbrook.org/,0,NEEDS EXTRACTION
+Bradley Beach School District,http://www.bbesnj.org,0,NEEDS EXTRACTION
+Branchburg Township School District,http://www.branchburg.k12.nj.us,0,NEEDS EXTRACTION
+Brick Township Public School District,http://www.brickschools.org,0,NEEDS EXTRACTION
+Bridgeton City School District,http://www.Bridgeton.k12.nj.us,0,NEEDS EXTRACTION
+Bridgewater-Raritan Regional School District,http://www.brrsd.org,0,NEEDS EXTRACTION
+Brielle Boro School District,http://www.brielleschool.org,6,HAS ADMINISTRATORS
+Brigantine Public School District,http://www.brigantineschools.org,0,NEEDS EXTRACTION
+Brooklawn Public School District,http://www.alicecostello.com,4,HAS ADMINISTRATORS
+Buena Regional School District,http://www.buenaschools.org,5,HAS ADMINISTRATORS
+Burlington City Public School District,http://www.burlington-nj.net/,12,HAS ADMINISTRATORS
+Burlington County Special Services School District,http://www.bcsssd.k12.nj.us,0,NEEDS EXTRACTION
+Burlington Township School District,http://www.burltwpsch.org,2,HAS ADMINISTRATORS
+Burlington County Institute of Technology School District,http://www.burlcoschools.org,0,NEEDS EXTRACTION
+Butler Public School District,http://www.butlerboe.org,5,HAS ADMINISTRATORS
+Byram Township School District,http://www.byramschools.org,0,NEEDS EXTRACTION
+Caldwell-West School District,http://www.cwcboe.org,0,NEEDS EXTRACTION
+Califon Borough School District,http://www.califonschool.org,0,NEEDS EXTRACTION
+Camden City School District,http://WWW.CAMDENCITYSCHOOLS.ORG,0,NEEDS EXTRACTION
+Camden County Technical School District,http://www.ccts.org,24,HAS ADMINISTRATORS
+Cape May City School District,http://www.cmcboe.org,0,NEEDS EXTRACTION
+Cape May County Technical High School District,http://www.capemaytech.com,0,NEEDS EXTRACTION
+Cape May County Special Services School District,http://www.cmcspecialservices.org,0,NEEDS EXTRACTION
+Cape May Point School District,http://www.capemaycityschool.org,0,NEEDS EXTRACTION
+Carlstadt Public School District,http://www.carlstadt.org,1,HAS ADMINISTRATORS
+Carlstadt-East Rutherford Regional High School District,http://www.bectonhs.org,9,HAS ADMINISTRATORS
+Carteret Public School District,http://www.carteretschools.org,9,HAS ADMINISTRATORS
+Cedar Grove Township School District,http://www.cgschools.org,0,NEEDS EXTRACTION
+Sterling Regional School District,http://www.sterling.k12.nj.us,4,HAS ADMINISTRATORS
+Central Regional School District,http://www.centralreg.k12.nj.us,0,NEEDS EXTRACTION
+Cherry Hill School District,http://www.chclc.org,6,HAS ADMINISTRATORS
+Chesilhurst Board of Education,http://www.chesilhurstboe.org,0,NEEDS EXTRACTION
+Chester Township School District,http://www.chester-nj.org,7,HAS ADMINISTRATORS
+Chesterfield Township School District,http://www.chesterfieldschool.com,3,HAS ADMINISTRATORS
+Cinnaminson Township School District,http://www.cinnaminson.com,0,NEEDS EXTRACTION
+Clark Township Public School District,http://www.clarkschools.org,0,NEEDS EXTRACTION
+Clayton Public School District,http://www.claytonps.org,0,NEEDS EXTRACTION
+Clearview Regional High School District,http://www.clearviewregional.edu,0,NEEDS EXTRACTION
+Clementon Elementary School District,http://clementon.k12.nj.us,0,NEEDS EXTRACTION
+Cliffside Park School District,http://www.cliffsidepark.edu,0,NEEDS EXTRACTION
+Clifton Public School District,http://www.clifton.k12.nj.us/,0,NEEDS EXTRACTION
+Clinton-Glen Gardner School District,http://cpsnj.org,0,NEEDS EXTRACTION
+Clinton Township School District,http://www.ctsdnj.org,0,NEEDS EXTRACTION
+Closter Public School District,http://www.closterschools.org,8,HAS ADMINISTRATORS
+Collingswood Public School District,http://www.collsk12.org,0,NEEDS EXTRACTION
+Colts Neck Township School District,http://www.coltsneckschools.org,0,NEEDS EXTRACTION
+Commercial Township School District,http://www.commercialschools.org,0,NEEDS EXTRACTION
+Corbin City School District,http://n/a,0,NEEDS EXTRACTION
+Cranbury Township School District,http://www.cranburyschool.org,1,HAS ADMINISTRATORS
+Cranford Public School District,http://cranfordschools.org,21,HAS ADMINISTRATORS
+Cresskill Public School District,http://www.cboek12.org,0,NEEDS EXTRACTION
+Cumberland County Board of Vocational Education,http://www.cctecnj.org,1,HAS ADMINISTRATORS
+Cumberland Regional School District,http://www.crhsd.org,0,NEEDS EXTRACTION
+Deal Boro School District,http://www.dealschool.org,0,NEEDS EXTRACTION
+Deerfield Township School District,http://www.deerfield.k12.nj.us,3,HAS ADMINISTRATORS
+Delanco Township School District,http://www.delanco.com,4,HAS ADMINISTRATORS
+Delaware Township School District,http://www.dtsk8.org,0,NEEDS EXTRACTION
+Delaware Valley Regional High School District,http://www.dvrhs.org,0,NEEDS EXTRACTION
+Delran Township School District,http://www.delranschools.org,9,HAS ADMINISTRATORS
+Demarest School District,http://demarestpublicschools.org,0,NEEDS EXTRACTION
+Dennis Township School District,http://www.dtschools.org,1,HAS ADMINISTRATORS
+Denville Township K-8 School District,http://www.denville.org,2,HAS ADMINISTRATORS
+Deptford Township Public School District,http://www.deptfordschools.org/,3,HAS ADMINISTRATORS
+Dover Public School District,http://dover-nj.org,12,HAS ADMINISTRATORS
+Downe Township School District,http://www.downeschool.org,0,NEEDS EXTRACTION
+Dumont Public School District,http://www.dumontnj.org,5,HAS ADMINISTRATORS
+Dunellen Public School District,http://www.dunellenschools.org,0,NEEDS EXTRACTION
+Eagleswood Township School District,http://www.eagleswood.org,0,NEEDS EXTRACTION
+East Amwell Township School District,http://www.eastamwell.org,0,NEEDS EXTRACTION
+East Brunswick Township School District,http://www.ebnet.org,8,HAS ADMINISTRATORS
+East Greenwich Township School District,http://www.eastgreenwich.k12.nj.us,3,HAS ADMINISTRATORS
+East Hanover Township School District,http://www.easthanoverschools.org,0,NEEDS EXTRACTION
+East Newark School District,http://www.eastnewarkschool.org,0,NEEDS EXTRACTION
+East Orange School District,http://www.eastorange.k12.nj.us,0,NEEDS EXTRACTION
+East Rutherford School District,http://www.erboe.net,10,HAS ADMINISTRATORS
+East Windsor Regional School District,http://www.ewrsd.org,0,NEEDS EXTRACTION
+Eastampton Township School District,http://www.etsdnj.us,1,HAS ADMINISTRATORS
+Eastern Camden County Regional School District,http://www.eccrsd.us,2,HAS ADMINISTRATORS
+Eatontown Public School District,http://www.eatontown.org,0,NEEDS EXTRACTION
+Edgewater School District,http://www.edgewaterschools.org,0,NEEDS EXTRACTION
+Edgewater Park Township School District,http://www.edgewaterparksd.org,0,NEEDS EXTRACTION
+Edison Township School District,http://www.edison.k12.nj.us,0,NEEDS EXTRACTION
+Egg Harbor City School District,http://www.eggharborcityschools.com,0,NEEDS EXTRACTION
+Egg Harbor Township School District,http://www.eht.k12.nj.us,0,NEEDS EXTRACTION
+Elizabeth Public Schools,http://www.epsnj.org,107,HAS ADMINISTRATORS
+Elk Township School District,http://www.auraelementary.us,0,NEEDS EXTRACTION
+Elmwood Park School District,http://www.elmwoodparkschools.org/www.elmwoodparkschools.org/,0,NEEDS EXTRACTION
+Elsinboro Township School District,http://www.elsinboroschool.org,0,NEEDS EXTRACTION
+Emerson Public School District,http://www.emersonschools.org,0,NEEDS EXTRACTION
+Englewood Public School District,http://www.epsd.org,0,NEEDS EXTRACTION
+Englewood Cliffs School District,http://www.englewoodcliffs.org,9,HAS ADMINISTRATORS
+Essex County Schools of Technology,http://www.essextech.org,0,NEEDS EXTRACTION
+Essex Fells School District,http://www.efsk-6.org,1,HAS ADMINISTRATORS
+Estell Manor School District,http://www.estellmanorschool.com,3,HAS ADMINISTRATORS
+Evesham Township School District,http://www.evesham.k12.nj.us,0,NEEDS EXTRACTION
+Ewing Township School District,http://www.ewing.k12.nj.us,7,HAS ADMINISTRATORS
+Fair Haven School District,http://www.fairhaven.edu,9,HAS ADMINISTRATORS
+Fair Lawn Public School District,http://www.fairlawnschools.org,0,NEEDS EXTRACTION
+Fairfield Public School District,http://www.fpsk6.org,0,NEEDS EXTRACTION
+Fairfield Township School District,http://www.fairfield.k12.nj.us,2,HAS ADMINISTRATORS
+Fairview Public School District,http://www.fairviewps.org,0,NEEDS EXTRACTION
+Farmingdale Public School District,http://www.farmingdaleschool.com,0,NEEDS EXTRACTION
+Flemington-Raritan Regional School District,http://www.frsd.k12.nj.us,0,NEEDS EXTRACTION
+Florence Township School District,http://www.florence.k12.nj.us,0,NEEDS EXTRACTION
+Florham Park School District,http://www.fpks.org,7,HAS ADMINISTRATORS
+Folsom Borough School District,http://www.folsomschool.org/,0,NEEDS EXTRACTION
+Fort Lee School District,http://www.flboe.com,18,HAS ADMINISTRATORS
+Frankford Township Consolidated School District,http://www.frankfordschool.org,0,NEEDS EXTRACTION
+Franklin Lakes School District,http://www.franklinlakes.k12.nj.us,0,NEEDS EXTRACTION
+Franklin Borough School District,http://www.fboe.org,0,NEEDS EXTRACTION
+Township of Franklin School District,http://www.franklintwpschools.org,0,NEEDS EXTRACTION
+Franklin Township School District,http://www.ftschool.org,6,HAS ADMINISTRATORS
+Franklin Township Public School District,http://www.franklinboe.org,0,NEEDS EXTRACTION
+Franklin Township School District,http://www.franklinschool.org,6,HAS ADMINISTRATORS
+Fredon Township School District,http://www.fredon.org,0,NEEDS EXTRACTION
+Freehold Borough School District,http://www.freeholdboro.k12.nj.us,3,HAS ADMINISTRATORS
+Freehold Regional High School District,http://www.frhsd.com,6,HAS ADMINISTRATORS
+Freehold Township School District,http://www.freeholdtwp.k12.nj.us,0,NEEDS EXTRACTION
+Frelinghuysen Township School District,http://WWW.FRELINGHUYSENSCHOOL.ORG,0,NEEDS EXTRACTION
+Frenchtown Borough School District,http://www.frenchtownschool.org/,0,NEEDS EXTRACTION
+Galloway Township Public School District,http://WWW.GTPS.K12.NJ.US,0,NEEDS EXTRACTION
+Garfield Public School District,http://gboe.org,1,HAS ADMINISTRATORS
+Garwood Boro,http://www.garwoodschools.org,0,NEEDS EXTRACTION
+Gateway Regional High School District,http://www.gatewayhs.com,7,HAS ADMINISTRATORS
+Gibbsboro Elementary School District,http://www.gibbsboroschool.org,3,HAS ADMINISTRATORS
+Glassboro School District,http://www.gpsd.us,0,NEEDS EXTRACTION
+Glen Ridge Public School District,http://www.glenridge.org,0,NEEDS EXTRACTION
+Glen Rock Public School District,http://WWW.GLENROCKNJ.ORG,0,NEEDS EXTRACTION
+Gloucester City Public School District,http://gcsd.k12.nj.us,9,HAS ADMINISTRATORS
+Gloucester Township Public Schools,http://www.gloucestertownshipschools.org,0,NEEDS EXTRACTION
+Gloucester County Vocational-Technical School District,http://www.gcit.org,1,HAS ADMINISTRATORS
+Greater Egg Harbor Regional High School District,http://www.gehrhsd.net,0,NEEDS EXTRACTION
+Green Township School District,http://www.greenhills.org,8,HAS ADMINISTRATORS
+Green Brook Township Public School District,http://www.gbtps.org,0,NEEDS EXTRACTION
+Greenwich Township School District,http://www.greenwichstowcreekpartnershipschools.org,1,HAS ADMINISTRATORS
+Greenwich Township School District,http://www.gtsdk8.us,1,HAS ADMINISTRATORS
+Greenwich Township School District,http://www.gtsd.net,1,HAS ADMINISTRATORS
+Guttenberg School District,http://www.alkschool.org,0,NEEDS EXTRACTION
+Hackensack School District,http://hackensackschools.org,0,NEEDS EXTRACTION
+Hackettstown Public School District,http://www.hackettstown.org,0,NEEDS EXTRACTION
+HADDON HEIGHTS School District,http://www.gogarnets.com,4,HAS ADMINISTRATORS
+Haddon Township School District,http://HADDONTWPSCHOOLS.COM,14,HAS ADMINISTRATORS
+Haddonfield School District,http://haddonfield.k12.nj.us,0,NEEDS EXTRACTION
+Hainesport Township School District,http://www.hainesport.k12.nj.us,0,NEEDS EXTRACTION
+Haledon Public School District,http://www.haledon.org,5,HAS ADMINISTRATORS
+Hamburg School District,http://www.hamburgschool.com,2,HAS ADMINISTRATORS
+Hamilton Township School District,http://www.hamiltonschools.org,0,NEEDS EXTRACTION
+Hamilton Township Public School District,http://www.htsdnj.org,1,HAS ADMINISTRATORS
+Hammonton School District,http://www.hammontonps.org,14,HAS ADMINISTRATORS
+Hampton Borough School District,http://www.hamptonpublicschool.ORG,0,NEEDS EXTRACTION
+Hampton Township School District,http://www.mckeown.org,4,HAS ADMINISTRATORS
+Hanover Park Regional High School District,http://www.hpreg.org,0,NEEDS EXTRACTION
+Hanover Township School District,http://www.hanovertwpschools.com,4,HAS ADMINISTRATORS
+Harding Township School District,http://www.hardingtwp.org,0,NEEDS EXTRACTION
+Hardyston Township School District,http://www.htps.org,2,HAS ADMINISTRATORS
+Harmony Township School District,http://www.htesd.org,88,HAS ADMINISTRATORS
+Harrington Park School District,http://www.hpsd.org,0,NEEDS EXTRACTION
+Harrison Public Schools,http://www.harrisonschools.org,0,NEEDS EXTRACTION
+Harrison Township School District,http://www.harrisontwp.k12.nj.us,4,HAS ADMINISTRATORS
+Hasbrouck Heights School District,http://www.hhschools.org,0,NEEDS EXTRACTION
+Haworth Public School District,http://www.haworth.org,2,HAS ADMINISTRATORS
+Hawthorne Public School District,http://www.hawthorneschools.org/,4,HAS ADMINISTRATORS
+Hi Nella,http://stratford.k12.nj.us,9,HAS ADMINISTRATORS
+High Bridge Borough School District,http://www.hbschools.org,0,NEEDS EXTRACTION
+High Point Regional High School District,http://www.hpregional.org,10,HAS ADMINISTRATORS
+Highland Park Boro School District,http://WWW.HPSCHOOLS.NET,0,NEEDS EXTRACTION
+Hillsborough Township Public School District,http://www.htps.us,0,NEEDS EXTRACTION
+Hillsdale School District,http://www.hillsdaleschools.com,5,HAS ADMINISTRATORS
+Hillside Public School District,http://hillsidepsnj.sites.thrillshare.com/,0,NEEDS EXTRACTION
+Ho-Ho-Kus School District,http://www.hohokus.org,8,HAS ADMINISTRATORS
+Hoboken Public School District,http://www.hoboken.k12.nj.us,1,HAS ADMINISTRATORS
+Holland Township School District,http://www.hollandschool.org,0,NEEDS EXTRACTION
+Holmdel Township School District,http://www.holmdelschools.org,0,NEEDS EXTRACTION
+Hopatcong Borough School District,http://www.hopatcongschools.org,0,NEEDS EXTRACTION
+Hope Township School District,http://www.hope-elem.org,0,NEEDS EXTRACTION
+Hopewell Township School District,http://hopewellcrest.org,4,HAS ADMINISTRATORS
+Hopewell Valley Regional School District,http://www.hvrsd.org,0,NEEDS EXTRACTION
+Howell Township Public School District,http://www.howell.k12.nj.us/,2,HAS ADMINISTRATORS
+Hudson County Schools of Technology School District,http://www.hcstonline.org,0,NEEDS EXTRACTION
+Hunterdon Central Regional High School District,http://www.hcrhs.org,2,HAS ADMINISTRATORS
+Interlaken School District,http://www.interlakenboro.com,1,HAS ADMINISTRATORS
+Irvington Public School District,http://www.irvington.k12.nj.us,6,HAS ADMINISTRATORS
+Island Heights School District,http://www.islandheights.k12.nj.us,0,NEEDS EXTRACTION
+Jackson Township School District,http://www.jacksonsd.org,3,HAS ADMINISTRATORS
+Jamesburg Public School District,http://www.jamesburg.org,3,HAS ADMINISTRATORS
+Jefferson Township Public School District,http://www.jefftwp.org,4,HAS ADMINISTRATORS
+Jersey City Public Schools,http://www.jcboe.org,3,HAS ADMINISTRATORS
+Keansburg School District,http://www.keansburg.k12.nj.us,10,HAS ADMINISTRATORS
+Kearny,http://kearnyschools.com,0,NEEDS EXTRACTION
+Kenilworth School District,http://www.kenilworthschools.com,1,HAS ADMINISTRATORS
+Keyport School District,http://www.kpsdschools.org,0,NEEDS EXTRACTION
+Kingsway Regional School District,http://www.krsd.org,7,HAS ADMINISTRATORS
+Kingwood Township School District,http://WWW.KINGWOODSCHOOL.ORG,0,NEEDS EXTRACTION
+Kinnelon School District,http://www.kinnelonpublicschools.org,3,HAS ADMINISTRATORS
+Kittatinny Regional School District,http://www.krhs.net,15,HAS ADMINISTRATORS
+Knowlton Township School District,http://www.knowltonschool.com,0,NEEDS EXTRACTION
+Lacey Township School District,http://www.laceyschools.org,3,HAS ADMINISTRATORS
+Lafayette Township School District,http://www.ltes.org,1,HAS ADMINISTRATORS
+Lakehurst School District,http://www.lakehurstschool.org,0,NEEDS EXTRACTION
+Lakeland Regional High School District,http://www.lakeland.k12.nj.us,0,NEEDS EXTRACTION
+Lakewood Township School District,http://www.lakewoodpiners.org,18,HAS ADMINISTRATORS
+Laurel Springs School District,http://www.laurelspringschool.org,0,NEEDS EXTRACTION
+Lavallette Borough School District,http://www.lavallettek12.org,0,NEEDS EXTRACTION
+Lawnside School District,http://www.lawnside.k12.nj.us,4,HAS ADMINISTRATORS
+Lawrence Township School District,http://www.myronlpowell.org,5,HAS ADMINISTRATORS
+Lawrence Township Public School District,http://www.ltps.org,2,HAS ADMINISTRATORS
+Lebanon Borough School District,http://www.lebanonschool.org,2,HAS ADMINISTRATORS
+Lebanon Township School District,http://www.lebtwpk8.org,0,NEEDS EXTRACTION
+Lenape Regional High School District,http://www.lrhsd.org,2,HAS ADMINISTRATORS
+Lenape Valley Regional High School District,http://www.lvhs.org,0,NEEDS EXTRACTION
+Leonia Public School District,http://www.leoniaschools.org,0,NEEDS EXTRACTION
+Lincoln Park School District,http://www.lincolnparkboe.org,9,HAS ADMINISTRATORS
+Linden Public School District,http://www.lindenps.org,0,NEEDS EXTRACTION
+Lindenwold Public School District,http://www.lindenwold.k12.nj.us,4,HAS ADMINISTRATORS
+Linwood City School District,http://www.linwoodschools.org,0,NEEDS EXTRACTION
+Longport Board of Education,http://none,0,NEEDS EXTRACTION
+Little Egg Harbor Township School District,http://www.lehsd.org,2,HAS ADMINISTRATORS
+Little Falls Township Public School District,http://www.lfschools.org,0,NEEDS EXTRACTION
+Little Ferry Public School District,http://www.lfboe.org,0,NEEDS EXTRACTION
+Little Silver Boro School District,http://WWW.LITTLESILVERSCHOOLS.ORG,0,NEEDS EXTRACTION
+Livingston Board of Education School District,http://www.livingston.org,0,NEEDS EXTRACTION
+Lodi School District,http://www.lodinjschools.org/,0,NEEDS EXTRACTION
+Logan Township School District,http://www.logantownshipschools.org,8,HAS ADMINISTRATORS
+Long Beach Island School District,http://www.lbischools.org,1,HAS ADMINISTRATORS
+LONG BRANCH PUBLIC SCHOOL District,http://www.longbranch.k12.nj.us,6,HAS ADMINISTRATORS
+Lopatcong Township School District,http://www.lopatsd.org,0,NEEDS EXTRACTION
+The Lower Alloways Creek School District,http://www.lacschool.org,2,HAS ADMINISTRATORS
+Lower Cape May Regional School District,http://www.lcmrschools.com,13,HAS ADMINISTRATORS
+Pennsville School District,http://www.psdnet.org,0,NEEDS EXTRACTION
+Lower Township Elementary School District,http://www.lowertwpschools.com,13,HAS ADMINISTRATORS
+Lumberton Township Board of Education,http://www.lumberton.k12.nj.us,6,HAS ADMINISTRATORS
+Lyndhurst Public School District,http://www.lyndhurstschools.net,2,HAS ADMINISTRATORS
+Madison Public School District,http://www.madisonpublicschools.org,0,NEEDS EXTRACTION
+Old Bridge Township School District,http://www.oldbridgeadmin.org,0,NEEDS EXTRACTION
+Magnolia School District,http://www.magnoliaschools.org,4,HAS ADMINISTRATORS
+Mahwah Township Public School District,http://www.mahwah.k12.nj.us,21,HAS ADMINISTRATORS
+Mainland Regional High School,http://MAINLANDREGIONAL.NET,3,HAS ADMINISTRATORS
+Manalapan-Englishtown Regional School District,http://www.mersnj.us/,2,HAS ADMINISTRATORS
+Manasquan School District,http://www.manasquanschools.org,2,HAS ADMINISTRATORS
+Manchester Township School District,http://www.manchestertwp.org,0,NEEDS EXTRACTION
+Mannington Township School District,http://manningtonschool.org,2,HAS ADMINISTRATORS
+Mansfield Township School District,http://www.mansfieldschool.com,2,HAS ADMINISTRATORS
+Mansfield Township Elementary School District,http://www.mansfieldtsd.org,0,NEEDS EXTRACTION
+North Warren Regional,http://www.northwarren.org,0,NEEDS EXTRACTION
+Mantua Township School District,http://www.mantuaschools.com,12,HAS ADMINISTRATORS
+Manville School District,http://www.manvilleschools.org,2,HAS ADMINISTRATORS
+Maple Shade School District,http://www.mapleshade.org,0,NEEDS EXTRACTION
+Margate City School District,http://www.margateschools.org,3,HAS ADMINISTRATORS
+Marlboro Township School District,http://www.mtps.org,1,HAS ADMINISTRATORS
+Matawan-Aberdeen Regional School District,http://www.marsd.org,2,HAS ADMINISTRATORS
+Maurice River Township School District,http://WWW.MRTES.COM,0,NEEDS EXTRACTION
+Maywood School District,http://WWW.MAYWOODSCHOOLS.ORG,1,HAS ADMINISTRATORS
+Medford Lakes School District,http://www.medford-lakes.k12.nj.us,8,HAS ADMINISTRATORS
+Medford Township School District,http://www.medford.k12.nj.us,11,HAS ADMINISTRATORS
+Mendham Borough School District,http://www.mendhamboro.org,0,NEEDS EXTRACTION
+Mendham Township School District,http://www.mendhamtwp.org,0,NEEDS EXTRACTION
+Area Vocational Technical School District of Mercer County,http://www.mcts.edu,7,HAS ADMINISTRATORS
+Merchantville School District,http://www.merchantvilleschool.org,2,HAS ADMINISTRATORS
+Metuchen Public School District,http://www.metuchenschools.org,0,NEEDS EXTRACTION
+Middle Township Public School District,http://middletownshippublicschools.org/,14,HAS ADMINISTRATORS
+Middlesex Borough School District,http://www.middlesex.k12.nj.us,0,NEEDS EXTRACTION
+Middlesex County Vocational and Technical School District,http://www.mcmsnj.net,1,HAS ADMINISTRATORS
+Middletown Township Public School District,http://www.middletownk12.org,10,HAS ADMINISTRATORS
+Midland Park School District,http://www.mpsnj.org,0,NEEDS EXTRACTION
+Milford Borough School District,http://www.milfordpublicschool.com,0,NEEDS EXTRACTION
+Millburn Township School District,http://www.millburn.org,0,NEEDS EXTRACTION
+Millstone Township School District,http://www.millstone.k12.nj.us,0,NEEDS EXTRACTION
+Milltown School District,http://www.milltownps.org,16,HAS ADMINISTRATORS
+Millville School District,http://www.millville.org,35,HAS ADMINISTRATORS
+Mine Hill Township School District,http://www.minehillcas.org,1,HAS ADMINISTRATORS
+Monmouth Beach School District,http://WWW.MBSCHOOL.ORG,5,HAS ADMINISTRATORS
+Monmouth Regional High School,http://www.monmouthregional.net,0,NEEDS EXTRACTION
+Monroe Township Public School District,http://www.monroetwp.k12.nj.us/,0,NEEDS EXTRACTION
+Monroe Township School District,http://WWW.MONROE.K12.NJ.US,4,HAS ADMINISTRATORS
+Montague Township School District,http://WWW.MONTAGUESCHOOL.ORG,0,NEEDS EXTRACTION
+Montclair Public School District,http://www.montclair.k12.nj.us,8,HAS ADMINISTRATORS
+Montgomery Township School District,http://www.mtsd.k12.nj.us,8,HAS ADMINISTRATORS
+Montvale Board of Education School District,http://www.montvalek8.org,1,HAS ADMINISTRATORS
+Montville Township School District,http://www.montville.net/,0,NEEDS EXTRACTION
+Moonachie School District,http://www.moonachieschool.org,2,HAS ADMINISTRATORS
+Moorestown Township Public School District,http://www.mtps.com,3,HAS ADMINISTRATORS
+Morris County Vocational School District,http://www.mcvts.org,3,HAS ADMINISTRATORS
+Morris Hills Regional School District,http://www.mhrd.org,3,HAS ADMINISTRATORS
+Morris Plains School District,http://sites.google.com/mpsdk8.org/mpsdk8/home,0,NEEDS EXTRACTION
+Morris School District,http://www.morrisschooldistrict.org,6,HAS ADMINISTRATORS
+Mount Arlington Public School District,http://www.mtartlingtonk8.org,0,NEEDS EXTRACTION
+Mt. Ephraim School District,http://www.mtephraimschools.com,3,HAS ADMINISTRATORS
+Mount Holly Township Public School District,http://www.mtholly.k12.nj.us,12,HAS ADMINISTRATORS
+Mount Laurel Township School District,http://www.mtlaurelschools.org,4,HAS ADMINISTRATORS
+Mount Olive Township School District,http://www.motsd.org/,4,HAS ADMINISTRATORS
+Mountain Lakes Public School District,http://www.mlschools.org/district,10,HAS ADMINISTRATORS
+Mountainside School District,http://www.mountainsideschools.org,2,HAS ADMINISTRATORS
+Mullica Township School District,http://www.mullicaschools.com,0,NEEDS EXTRACTION
+National Park Borough School District,http://www.npelem.com,0,NEEDS EXTRACTION
+Neptune City School District,http://www.neptunecityschool.org,0,NEEDS EXTRACTION
+Neptune Township School District,http://www.neptune.k12.nj.us,3,HAS ADMINISTRATORS
+Netcong School District,http://www.netcongschool.org,0,NEEDS EXTRACTION
+New Brunswick School District,http://www.nbpschools.net/,12,HAS ADMINISTRATORS
+New Hanover Township,http://newhanover.k12.nj.us,0,NEEDS EXTRACTION
+New Milford Public School District,http://www.nmpsd.org,2,HAS ADMINISTRATORS
+New Providence School District,http://www.npsd.k12.nj.us,3,HAS ADMINISTRATORS
+Newark Public School District,http://WWW.NPS.K12.NJ.US,10,HAS ADMINISTRATORS
+Newfield Boro School District,http://n/a,0,NEEDS EXTRACTION
+Newton Public School District,http://www.newtonnj.org,0,NEEDS EXTRACTION
+North Arlington School District,http://www.navikings.org,0,NEEDS EXTRACTION
+North Bergen School District,http://www.northbergen.k12.nj.us,0,NEEDS EXTRACTION
+North Brunswick Township School District,http://www.nbtschools.org,0,NEEDS EXTRACTION
+North Caldwell School District,http://www.ncboe.org,7,HAS ADMINISTRATORS
+North Haledon School District,http://www.nhschools.net/nh,0,NEEDS EXTRACTION
+North Hanover Township School District,http://www.nhanover.com,3,HAS ADMINISTRATORS
+North Hunterdon-Voorhees Regional High School District,http://www.nhvweb.net,1,HAS ADMINISTRATORS
+North Plainfield School District,http://www.nplainfield.org,2,HAS ADMINISTRATORS
+North Wildwood School District,http://www.mmace.com,0,NEEDS EXTRACTION
+Northern Burlington County Regional School District,http://www.nburlington.com,0,NEEDS EXTRACTION
+Northern Highlands Regional High School District,http://www.northernhighlands.org,0,NEEDS EXTRACTION
+Northern Valley Regional High School District,http://www.nvnet.org,0,NEEDS EXTRACTION
+Northfield City School District,http://www.ncs-nj.org,4,HAS ADMINISTRATORS
+Northvale Public School District,http://www.NORTHVALESCHOOL.ORG,5,HAS ADMINISTRATORS
+Norwood Public School District,http://www.wearenorwood.org,0,NEEDS EXTRACTION
+Nutley Public School District,http://www.nutleyschools.org,1,HAS ADMINISTRATORS
+Oakland Public School District,http://www.oaklandschoolsnj.org,8,HAS ADMINISTRATORS
+Oaklyn Public School District,http://www.oaklynschool.org,0,NEEDS EXTRACTION
+Ocean City School District,http://www.ocsdnj.org,0,NEEDS EXTRACTION
+Ocean County Vocational Technical School District,http://www.ocvts.org,0,NEEDS EXTRACTION
+Ocean Gate School District,http://www.oceangateschool.net,0,NEEDS EXTRACTION
+Township of Ocean School District,http://www.oceanschools.org,5,HAS ADMINISTRATORS
+Ocean Township School District,http://www.otsdk6.org,2,HAS ADMINISTRATORS
+Oceanport School District,http://oceanportschools.org,0,NEEDS EXTRACTION
+Ogdensburg Borough School District,http://www.obboe.org,6,HAS ADMINISTRATORS
+Old Tappan Public School District,http://www.oldtappanschools.org,6,HAS ADMINISTRATORS
+Oldmans Township School District,http://WWW.OLDMANS.ORG,0,NEEDS EXTRACTION
+Oradell Public School District,http://oradellschool.org,0,NEEDS EXTRACTION
+River Dell Regional School District,http://www.riverdell.org,0,NEEDS EXTRACTION
+ORANGE BOARD OF EDUCATION School District,http://www.orange.k12.nj.us,0,NEEDS EXTRACTION
+Oxford Township School District,http://www.oxfordcentral.org,0,NEEDS EXTRACTION
+Palisades Park School District,http://palpkschools.org,12,HAS ADMINISTRATORS
+Palmyra Public School District,http://palmyraschools.com/,0,NEEDS EXTRACTION
+Paramus Public School District,http://www.paramus.k12.nj.us,18,HAS ADMINISTRATORS
+Park Ridge School District,http://www.parkridgeschools.org/,4,HAS ADMINISTRATORS
+Parsippany-Troy Hills Township School District,http://www.pthsd.k12.nj.us,0,NEEDS EXTRACTION
+Pascack Valley Regional High School District,http://www.pascack.org,2,HAS ADMINISTRATORS
+Passaic City School District,http://www.passaicschools.org/,0,NEEDS EXTRACTION
+Passaic Valley Regional High School District,http://www.pvrhs.org,8,HAS ADMINISTRATORS
+Passaic County Manchester Regional High School District,http://WWW.MRHS.NET,11,HAS ADMINISTRATORS
+Passaic County Technical-Vocational School District,http://www.pctvs.org,0,NEEDS EXTRACTION
+Long Hill Township School District,http://www.longhill.org,14,HAS ADMINISTRATORS
+Paterson Public School District,http://www.paterson.k12.nj.us,25,HAS ADMINISTRATORS
+Paulsboro School District,http://WWW.PAULSBORO.K12.NJ.US,1,HAS ADMINISTRATORS
+Pemberton Township School District,http://www.pemberton.k12.nj.us,5,HAS ADMINISTRATORS
+Penns Grove-Carneys Point Regional School District,http://www.pgcpschools.org,0,NEEDS EXTRACTION
+Pennsauken Township Board of Education School District,http://PENNSAUKEN.NET,3,HAS ADMINISTRATORS
+Pequannock Township School District,http://www.pequannock.org,0,NEEDS EXTRACTION
+Perth Amboy Public School District,http://www.paps.net,3,HAS ADMINISTRATORS
+Phillipsburg School District,http://www.pburgsd.net,9,HAS ADMINISTRATORS
+Pine Hill School District,http://www.pinehillschools.org,12,HAS ADMINISTRATORS
+Pinelands Regional School District,http://www.pinelandsregional.org,0,NEEDS EXTRACTION
+Piscataway Township School District,http://www.piscatawayschools.org,0,NEEDS EXTRACTION
+Pitman Boro School District,http://pitman.k12.nj.us,0,NEEDS EXTRACTION
+Pittsgrove Township School District,http://www.pittsgrove.net,2,HAS ADMINISTRATORS
+Plainfield Public School District,http://www.plainfieldnjk12.org,0,NEEDS EXTRACTION
+Pleasantville Public School District,http://www.pps-nj.us/pps/,5,HAS ADMINISTRATORS
+Plumsted Township School District,http://www.newegypt.us,0,NEEDS EXTRACTION
+Pohatcong Township School District,http://www.pohatcong.org,0,NEEDS EXTRACTION
+Point Pleasant Borough School District,http://www.pointpleasant.k12.nj.us,4,HAS ADMINISTRATORS
+Point Pleasant Beach School District,http://www.ptbeach.com,0,NEEDS EXTRACTION
+Pompton Lakes School District,http://plps-k12.org/en-us,0,NEEDS EXTRACTION
+Port Republic School District,http://www.portnj.org,2,HAS ADMINISTRATORS
+Princeton Public School District,http://www.princetonk12.org,6,HAS ADMINISTRATORS
+Prospect Park Public School District,http://www.prospectparknj.com,1,HAS ADMINISTRATORS
+Quinton Township School District,http://www.quintonschool.info,1,HAS ADMINISTRATORS
+Rahway Public School District,http://www.rahway.net,5,HAS ADMINISTRATORS
+Ramapo Indian Hills Regional High School District,http://www.rih.org,4,HAS ADMINISTRATORS
+Ramsey School District,http://www.ramsey.k12.nj.us,0,NEEDS EXTRACTION
+Rancocas Valley Regional High School District,http://www.rvrhs.com,14,HAS ADMINISTRATORS
+Randolph Township School District,http://www.rtnj.org,0,NEEDS EXTRACTION
+Hazlet Township Public School District,http://www.hazlet.org,0,NEEDS EXTRACTION
+Readington Township School District,http://www.readington.k12.nj.us,7,HAS ADMINISTRATORS
+Red Bank Borough Public School District,http://www.rbb.k12.nj.us,11,HAS ADMINISTRATORS
+Red Bank Regional School District,http://www.rbrhs.org,5,HAS ADMINISTRATORS
+Ridgefield School District,http://www.ridgefieldschools.com,7,HAS ADMINISTRATORS
+Ridgefield Park Public School District,http://www.rpps.net,0,NEEDS EXTRACTION
+Ridgewood Public School District,http://www.rpsnj.us,0,NEEDS EXTRACTION
+Ringwood School District,http://www.njrps.org,0,NEEDS EXTRACTION
+River Edge School District,http://www.riveredgeschools.org,0,NEEDS EXTRACTION
+River Vale Public School District,http://www.rivervaleschools.com,0,NEEDS EXTRACTION
+Riverdale School District,http://www.rpsnj.org,0,NEEDS EXTRACTION
+Riverside Township School District,http://www.riverside.k12.nj.us,0,NEEDS EXTRACTION
+Riverton School District,http://rivertonschool.com/,0,NEEDS EXTRACTION
+Rochelle Park School District,http://www.rochellepark.org,0,NEEDS EXTRACTION
+Rockaway Borough School District,http://www.rockboro.org,2,HAS ADMINISTRATORS
+Rockaway Township School District,http://www.rocktwp.net,0,NEEDS EXTRACTION
+Rockleigh School District,http://none,0,NEEDS EXTRACTION
+Roosevelt Borough Public School District,http://www.rps1.org,0,NEEDS EXTRACTION
+Roseland School District,http://www.roselandnjboe.org,0,NEEDS EXTRACTION
+Roselle Public School District,http://WWW.ROSELLESCHOOLS.ORG,0,NEEDS EXTRACTION
+Roselle Park Public School District,http://www.rpsd.org,0,NEEDS EXTRACTION
+Roxbury Township School District,http://www.roxbury.org,7,HAS ADMINISTRATORS
+Rumson Borough School District,http://www.rumsonschool.org,0,NEEDS EXTRACTION
+Rumson-Fair Haven Regional High School District,http://www.rumsonfairhaven.org,2,HAS ADMINISTRATORS
+Runnemede Public School District,http://www.runnemedeschools.org,6,HAS ADMINISTRATORS
+Rutherford School District,http://www.rutherfordschools.org,3,HAS ADMINISTRATORS
+Saddle Brook School District,http://www.sbpsnj.org,16,HAS ADMINISTRATORS
+Saddle River School District,http://www.wandellschool.org,0,NEEDS EXTRACTION
+Salem City School District,http://www.SALEMNJ.ORG,0,NEEDS EXTRACTION
+Salem County Vocational Technical School District,http://www.scvts.org,0,NEEDS EXTRACTION
+Sandyston-Walpack Consolidated School District,http://www.sandystonwalpack.org,0,NEEDS EXTRACTION
+Sayreville School District,http://www.sayrevillek12.net,2,HAS ADMINISTRATORS
+Scotch Plains-Fanwood School District,http://www.spfk12.org,5,HAS ADMINISTRATORS
+Sea Girt Borough School District,http://www.seagirt.k12.nj.us,0,NEEDS EXTRACTION
+Sea Isle City Board of Education,http://www.seaislecitynj.us/SchoolBoard,0,NEEDS EXTRACTION
+Seaside Heights School District,http://www.sshschool.org/,0,NEEDS EXTRACTION
+Seaside Park Borough School District,http://www.seasideparkschool.com,0,NEEDS EXTRACTION
+Secaucus School District,http://www.sboe.org,0,NEEDS EXTRACTION
+Shamong Township School District,http://www.shamongschools.org,0,NEEDS EXTRACTION
+Shore Regional High School District,http://www.shoreregional.org,13,HAS ADMINISTRATORS
+Shrewsbury Borough School District,http://www.sbs.k12.nj.us/sbs,0,NEEDS EXTRACTION
+Somerdale School District,http://www.somerdale-park.org,2,HAS ADMINISTRATORS
+Somers Point School District,http://www.sptsd.org,2,HAS ADMINISTRATORS
+Somerset County Vocational and Technical School District,http://www.scvths.org,4,HAS ADMINISTRATORS
+Somerville Public School District,http://www.somervilleschools.org,0,NEEDS EXTRACTION
+South Amboy School District,http://www.sapublicschools.com,7,HAS ADMINISTRATORS
+Lake Como School District,http://www.belmar.k12.nj.us/domain/113,0,NEEDS EXTRACTION
+South Bound Brook Public School District,http://www.southboundbrookk8.org,0,NEEDS EXTRACTION
+South Brunswick School District,http://www.sbschools.org,0,NEEDS EXTRACTION
+South Hackensack School District,http://www.shmemorial.org,1,HAS ADMINISTRATORS
+South Harrison Township School District,http://www.southharrison.k12.nj.us,0,NEEDS EXTRACTION
+South Orange-Maplewood School District,http://www.somsd.k12.nj.us,23,HAS ADMINISTRATORS
+South Plainfield School District,http://www.spboe.org,0,NEEDS EXTRACTION
+South River Public School District,http://www.srivernj.org,3,HAS ADMINISTRATORS
+Southampton Township School District,http://www.stsdwarriors.org,6,HAS ADMINISTRATORS
+Delsea Regional High School District,http://www.delsearegional.us,0,NEEDS EXTRACTION
+Southern Regional School District,http://www.srsd.net,0,NEEDS EXTRACTION
+Sparta Township Public School District,http://www.sparta.org,0,NEEDS EXTRACTION
+Spotswood Public School District,http://www.spsd.us,3,HAS ADMINISTRATORS
+Spring Lake Borough,http://www.slboe.org,0,NEEDS EXTRACTION
+Spring Lake Heights School District,http://www.slheights.org,0,NEEDS EXTRACTION
+Springfield Public School District,http://www.springfieldschools.com,3,HAS ADMINISTRATORS
+Springfield Township School District,http://www.springfieldschool.org,5,HAS ADMINISTRATORS
+Stafford Township School District,http://www.staffordschools.org,0,NEEDS EXTRACTION
+Stanhope School District,http://www.stanhopeschools.org,7,HAS ADMINISTRATORS
+Stillwater Township School District,http://www.stillwaterschool.net,7,HAS ADMINISTRATORS
+Stone Harbor School District,http://www.avalonstoneharborschools.org,0,NEEDS EXTRACTION
+Stow Creek Township School District,http://www.greenwichstowcreekpartnershipschools.org,0,NEEDS EXTRACTION
+Stratford School District,http://www.stratford.k12.nj.us,9,HAS ADMINISTRATORS
+Summit Public School District,http://www.summit.k12.nj.us,0,NEEDS EXTRACTION
+Sussex County Technical School District,http://www.sussextech.org,8,HAS ADMINISTRATORS
+Sussex-Wantage Regional School District,http://www.swregional.org,3,HAS ADMINISTRATORS
+Swedesboro-Woolwich School District,http://www.swedesboro-woolwich.com,12,HAS ADMINISTRATORS
+Tabernacle Township School District,http://www.tabschools.org,0,NEEDS EXTRACTION
+Teaneck School District,http://www.teaneckschools.org,14,HAS ADMINISTRATORS
+Tenafly Public School District,http://www.tenaflyschools.org,4,HAS ADMINISTRATORS
+Tewksbury Township School District,http://www.tewksburyschools.org,10,HAS ADMINISTRATORS
+Tinton Falls School District,http://www.tfschools.org,0,NEEDS EXTRACTION
+Toms River Regional School District,http://www.trschools.com,0,NEEDS EXTRACTION
+Totowa Public School District,http://www.totowa.k12.nj.us,0,NEEDS EXTRACTION
+Trenton Public School District,http://www.trenton.k12.nj.us,0,NEEDS EXTRACTION
+Tuckerton Borough School District,http://www.tesnj.com,2,HAS ADMINISTRATORS
+Union Beach Public School District,http://www.unionbeachschools.org,5,HAS ADMINISTRATORS
+Union City School District,http://www.ucboe.us,13,HAS ADMINISTRATORS
+Union County Educational Services Commission,http://www.ucesc.org,9,HAS ADMINISTRATORS
+Union Township School District,http://www.uniontwpschool.org,5,HAS ADMINISTRATORS
+Barnegat Township School District,http://www.barnegatschools.com,0,NEEDS EXTRACTION
+Township of Union School District,http://www.twpunionschools.org,0,NEEDS EXTRACTION
+Upper Deerfield Township School District,http://www.udts.org,0,NEEDS EXTRACTION
+Upper Freehold Regional School District,http://www.ufrsd.net,0,NEEDS EXTRACTION
+UPPER PITTSGROVE TWP School District,http://www.upsnj.org/,3,HAS ADMINISTRATORS
+Upper Saddle River School District,http://www.usrschoolsk8.com,0,NEEDS EXTRACTION
+Upper Township School District,http://www.upperschools.org,3,HAS ADMINISTRATORS
+Ventnor City School District,http://www.veccnj.org,0,NEEDS EXTRACTION
+Vernon Township School District,http://www.vtsd.com,0,NEEDS EXTRACTION
+Verona Public School District,http://www.veronaschools.org,0,NEEDS EXTRACTION
+Vineland Public School District,http://www.vineland.org,0,NEEDS EXTRACTION
+Voorhees Township School District,http://www.voorhees.k12.nj.us,5,HAS ADMINISTRATORS
+Waldwick School District,http://www.waldwickschools.org,0,NEEDS EXTRACTION
+Wallkill Valley Regional High School,http://www.wallkillvrhs.org,6,HAS ADMINISTRATORS
+Wall Township Public School District,http://www.wallpublicschools.org/,9,HAS ADMINISTRATORS
+Wallington Boro School District,http://www.wboe.org,0,NEEDS EXTRACTION
+Wanaque School District,http://www.wanaqueps.org,0,NEEDS EXTRACTION
+Warren Hills Regional School District,http://www.warrenhills.org,11,HAS ADMINISTRATORS
+Warren Township School District,http://www.warrentboe.org,0,NEEDS EXTRACTION
+Washington Boro School District,http://www.washboroschools.org,0,NEEDS EXTRACTION
+Washington Township School District,http://www.wtgreenbank.k12.nj.us,1,HAS ADMINISTRATORS
+Washington Township School District,http://www.wtps.org,1,HAS ADMINISTRATORS
+Robbinsville Public School District,http://www.robbinsville.k12.nj.us/,0,NEEDS EXTRACTION
+Washington Township School District,http://www.wtschools.org,1,HAS ADMINISTRATORS
+Washington Township School District,http://www.washtwpsd.org,1,HAS ADMINISTRATORS
+Watchung Borough School District,http://www.watchungschools.com,8,HAS ADMINISTRATORS
+Watchung Hills Regional High School District,http://www.whrhs.org,14,HAS ADMINISTRATORS
+Waterford Township School District,http://www.wtsd.org,1,HAS ADMINISTRATORS
+Wayne Township Public School District,http://www.wayneschools.com,0,NEEDS EXTRACTION
+Weehawken Public School District,http://www.weehawken.k12.nj.us,1,HAS ADMINISTRATORS
+Wenonah  Boro School District,http://www.wenonahsd.org,2,HAS ADMINISTRATORS
+West Cape May School District,http://wcmschool.net,0,NEEDS EXTRACTION
+West Deptford Township School District,http://www.wdeptford.k12.nj.us,4,HAS ADMINISTRATORS
+West Essex Regional School District,http://www.westex.org,15,HAS ADMINISTRATORS
+West Long Branch School District,http://www.wlbschools.com,7,HAS ADMINISTRATORS
+Monmouth County Vocational School District,http://www.mcvsd.org,0,NEEDS EXTRACTION
+West Milford Township Public School District,http://www.wmtps.org,0,NEEDS EXTRACTION
+West Morris Regional High School District,http://www.wmrhsd.org,0,NEEDS EXTRACTION
+West New York School District,http://www.wnyschools.net,6,HAS ADMINISTRATORS
+West Orange Public Schools,http://www.woboe.org,3,HAS ADMINISTRATORS
+Woodland Park School District,http://www.wpschools.org,0,NEEDS EXTRACTION
+West Wildwood School District,http://n/a,0,NEEDS EXTRACTION
+West Windsor-Plainsboro Regional School District,http://www.ww-p.org/,0,NEEDS EXTRACTION
+Westampton Township Public School District,http://www.westamptonschools.org,0,NEEDS EXTRACTION
+Westfield Public School District,http://www.westfieldnjk12.org,0,NEEDS EXTRACTION
+Westville Boro Public School District,http://www.westvillesd.com,0,NEEDS EXTRACTION
+Westwood Regional School District,http://www.wwrsd.org,0,NEEDS EXTRACTION
+Weymouth Township School District,http://www.weymouthtownshipschool.org,4,HAS ADMINISTRATORS
+Wharton Borough School District,http://www.wbps.org,0,NEEDS EXTRACTION
+White Township Consolidated School District,http://www.whitetwpsd.org,0,NEEDS EXTRACTION
+Warren County Vocational Technical School,http://www.wctech.org,7,HAS ADMINISTRATORS
+Wildwood City School District,http://nj02210961.schoolwires.net/,0,NEEDS EXTRACTION
+Wildwood Crest Borough School District,http://WWW.CRESTMEM.EDU,0,NEEDS EXTRACTION
+Willingboro Public School District,http://www.willingboroschools.org,0,NEEDS EXTRACTION
+Winfield Township,http://www.winfieldschool.org,0,NEEDS EXTRACTION
+Union County Vocational-Technical School District,http://www.ucvts.org,19,HAS ADMINISTRATORS
+Winslow Township School District,http://www.winslow-schools.com,8,HAS ADMINISTRATORS
+Woodbine School District,http://woodbineschool.com,0,NEEDS EXTRACTION
+Woodbridge Township School District,http://www.woodbridge.k12.nj.us/,0,NEEDS EXTRACTION
+Woodbury City Public School District,http://www.woodburysch.com,20,HAS ADMINISTRATORS
+Woodbury Heights Public School District,http://www.woodburyhtselem.com,0,NEEDS EXTRACTION
+Woodcliff Lake School District,http://www.woodcliff-lake.com,1,HAS ADMINISTRATORS
+Woodland Township School District,http://www.woodlandboe.org,0,NEEDS EXTRACTION
+Woodlynne School District,http://www.woodlynne.k12.nj.us,0,NEEDS EXTRACTION
+Wood-Ridge School District,http://www.wood-ridgeschools.org,0,NEEDS EXTRACTION
+Woodstown-Pilesgrove Regional School District,http://www.woodstown.org,14,HAS ADMINISTRATORS
+Wyckoff Township Public School District,http://www.wyckoffps.org,0,NEEDS EXTRACTION
+Educational Services Commission of New Jersey,http://www.escnj.us,8,HAS ADMINISTRATORS
+Mercer County Special Services School District,http://www.mcsssd.info,1,HAS ADMINISTRATORS
+Monmouth-Ocean Educational Services Commission School Distri,http://www.moesc.org,0,NEEDS EXTRACTION
+Educational Services Commission of Morris County,http://www.escmorris.com,0,NEEDS EXTRACTION
+Somerset County Educational Services Commission School Distr,http://www.somersetcountyesc.org,5,HAS ADMINISTRATORS
+Essex Regional Educational Services Commission,http://www.eresc.org,0,NEEDS EXTRACTION
+Sussex County Educational Services Commission,http://www.sussexesc.org,0,NEEDS EXTRACTION
+Camden County Educational Services Commission,http://www.camdenesc.org,0,NEEDS EXTRACTION
+Hunterdon County Educational Services Commission,http://www.hunterdonesc.org,0,NEEDS EXTRACTION
+Salem County Special Services School District,http://scsssd.org,1,HAS ADMINISTRATORS
+Warren County Special Services School District,http://www.wcsssd.org,0,NEEDS EXTRACTION
+Gloucester County Special Services School District,http://www.gcsssd.org,16,HAS ADMINISTRATORS
+Northern Region Educational Services Commission,http://www.nresc.org,3,HAS ADMINISTRATORS
+Gateway Academy Charter School,http://gatewayacademy.org,0,NEEDS EXTRACTION
+Kindle Education Public Charter School,http://www.kindleeducation.org/,0,NEEDS EXTRACTION
+Paterson Preparatory Charter School,http://patersonprep.org/,0,NEEDS EXTRACTION
+Thrive Charter School,http://www.thrivecharterschool.org,0,NEEDS EXTRACTION
+Henry Hudson Regional School District,http://www.henryhudsonreg.k12.nj.us,0,NEEDS EXTRACTION
+Greenwich Stow Creek Regional School District,http://www.gscnj.org,0,NEEDS EXTRACTION

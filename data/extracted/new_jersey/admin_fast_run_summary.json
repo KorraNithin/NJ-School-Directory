@@ -1,0 +1,10 @@
+{
+  "total_districts": 698,
+  "districts_with_admin_contacts": 319,
+  "districts_needing_extraction": 379,
+  "total_leadership_records": 2016,
+  "records_with_email": 241,
+  "records_with_phone": 432,
+  "new_records_collected": 1687,
+  "failed_pages": 328
+}
