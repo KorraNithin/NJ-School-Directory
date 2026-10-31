@@ -1,0 +1,699 @@
+district,website,administrator_count,status
+School District of the Chathams,http://www.chatham-nj.org,0,NEEDS EXTRACTION
+Morris-Union Jointure Commission School District,http://www.mujc.org,2,HAS ADMINISTRATORS
+Atlantic County Special Services School District,http://www.acsssd.net,0,NEEDS EXTRACTION
+South  Bergen Jointure Commission School District,http://www.njsbjc.org,11,HAS ADMINISTRATORS
+Great Meadows Regional School District,http://www.gmrsd.com,0,NEEDS EXTRACTION
+Somerset Hills Regional School District,http://www.shsd.org/,8,HAS ADMINISTRATORS
+Englewood on the Palisades Charter School,http://www.englewoodcharterschool.com,1,HAS ADMINISTRATORS
+Teaneck Community Charter School,http://www.tccsnj.org,0,NEEDS EXTRACTION
+Chartertech High School for the Performing Arts,http://www.chartertech.org,1,HAS ADMINISTRATORS
+Discovery Charter School,http://www.discoverycs.org,0,NEEDS EXTRACTION
+East Orange Community Charter School,http://www.theeoccs.org,0,NEEDS EXTRACTION
+Marion P. Thomas Charter School,http://www.mptcs.org,0,NEEDS EXTRACTION
+New Horizons Community Charter School,http://www.nhccschools.org/,0,NEEDS EXTRACTION
+North Star Academy Charter School,http://northstar.uncommonschools.org/,0,NEEDS EXTRACTION
+Robert Treat Academy Charter School,http://www.RobertTreatAcademy.org,0,NEEDS EXTRACTION
+Maria L. Varisco-Rogers Charter School,http://www.mlvrcs.org,0,NEEDS EXTRACTION
+Elysian Charter School,http://www.ecsnj.org,1,HAS ADMINISTRATORS
+Hoboken Charter School District,http://www.hobokencs.org,0,NEEDS EXTRACTION
+Jersey City Community Charter School,http://www.jcccsonline.org,3,HAS ADMINISTRATORS
+Jersey City Golden Door Charter School,http://www.goldendoorschool.org,2,HAS ADMINISTRATORS
+The Learning Community Charter School,http://www.lccsnj.org,0,NEEDS EXTRACTION
+Soaring Heights Charter School,http://www.shcsjc.org,0,NEEDS EXTRACTION
+International Charter School of Trenton,http://Internationalcs.org,0,NEEDS EXTRACTION
+Pace Charter School of Hamilton,http://www.pacecharter.com/pcs/.,0,NEEDS EXTRACTION
+Princeton Charter School,http://princetoncharter.org/,0,NEEDS EXTRACTION
+The Village Charter School,http://www.villagecharter.org,0,NEEDS EXTRACTION
+Greater Brunswick Charter School,http://www.greaterbrunswick.org,0,NEEDS EXTRACTION
+Academy Charter High School,http://www.academycharterhs.org,0,NEEDS EXTRACTION
+Red Bank Charter School,http://www.redbankcharterschool.com,0,NEEDS EXTRACTION
+Hunterdon County Vocational School District,http://www.hcpolytech.org,0,NEEDS EXTRACTION
+Unity Charter School,http://www.unitycharterschool.org,0,NEEDS EXTRACTION
+Classical Academy Charter School of Clifton,http://www.classicalacademy.org,0,NEEDS EXTRACTION
+Sussex County Technology Charter School,http://www.sussexcharter.org,0,NEEDS EXTRACTION
+The Queen City Academy Charter School District,http://www.queencity.edu,0,NEEDS EXTRACTION
+Gray Charter School,http://www.graycharterschool.com,0,NEEDS EXTRACTION
+Bayshore Jointure Commission School District,http://www.theshorecenter.org,0,NEEDS EXTRACTION
+TEAM Academy Charter School,http://www.kippnj.org,0,NEEDS EXTRACTION
+University Academy Charter High School,http://www.uachs.org,0,NEEDS EXTRACTION
+Hope Academy Charter School,http://www.hopeacademycs.org,0,NEEDS EXTRACTION
+LEAP Academy University Charter School,http://www.leapacademycharter.org,0,NEEDS EXTRACTION
+Ridge and Valley Charter School,http://www.ridgeandvalley.org,0,NEEDS EXTRACTION
+Union County TEAMS Charter School-High School/College LA,http://www.ucteams.org,0,NEEDS EXTRACTION
+OFFICE OF EDUCATION DEPARTMENT OF CHILDREN AND FAMILIES,,0,NEEDS EXTRACTION
+Paterson Charter School for Science and Technology,http://www.pcsst.org,0,NEEDS EXTRACTION
+OFFICE OF EDUCATIONAL SERVICES DEPARTMENT OF CORRECTIONS,,0,NEEDS EXTRACTION
+OFFICE OF EDUCATION JUVENILE JUSTICE COMMISSION,,0,NEEDS EXTRACTION
+Central Jersey College Prep Charter School,http://www.cjcollegeprep.org,0,NEEDS EXTRACTION
+Absecon Public Schools District,http://www.abseconschools.org/,0,NEEDS EXTRACTION
+Alexandria Township School District,http://www.alexandriaschools.org,0,NEEDS EXTRACTION
+Bergen Arts and Science Charter School,http://ilearnschools.org/bergen-arts-science-charter-school/,0,NEEDS EXTRACTION
+Foundation Academy Charter School,http://www.foundationacademies.org,0,NEEDS EXTRACTION
+Community Charter School of Paterson,http://www.ccsp.org,0,NEEDS EXTRACTION
+Pride Academy Charter School District,http://www.prideacs.org,0,NEEDS EXTRACTION
+Allamuchy Township School District,http://www.aes.k12.nj.us,0,NEEDS EXTRACTION
+Paul Robeson Charter School for the Humanities,http://www.paulrobesoncs.org,0,NEEDS EXTRACTION
+Burch Charter School of Excellence,http://www.burchcharterschool.org,0,NEEDS EXTRACTION
+The Ethical Community Charter School School Distirct,http://www.teccs-jc.org/,0,NEEDS EXTRACTION
+Vineland Public Charter School,http://www.vinelandpubliccharterschool.org/,0,NEEDS EXTRACTION
+Newark Educators Community Charter School,http://www.newarkeducators.org,0,NEEDS EXTRACTION
+Riverbank Charter School of Excellence,http://riverbank.charter.k12.nj.us,0,NEEDS EXTRACTION
+Hoboken Dual Language Charter School,http://holahoboken.org/,0,NEEDS EXTRACTION
+Hatikvah International Academy Charter School,http://www.hatikvahcharterschool.org,0,NEEDS EXTRACTION
+Barack Obama Green Charter School District,http://www.barackobamagreencharterschool.org,0,NEEDS EXTRACTION
+Academy for Urban Leadership Charter School,http://www.aulcs.org,0,NEEDS EXTRACTION
+Benjamin Banneker Preparatory Charter School,http://www.bannekerprep.com,0,NEEDS EXTRACTION
+Passaic Arts and Science Charter School,http://ilearnschools.org/passaic-arts-science-charter-school/,0,NEEDS EXTRACTION
+Thomas Edison EnergySmart Charter School,http://www.teecs.org,0,NEEDS EXTRACTION
+John P Holland Charter School School District,http://www.jphcs.org,0,NEEDS EXTRACTION
+Millville Public Charter School District,http://millvillepubliccharterschool.org,0,NEEDS EXTRACTION
+Allendale Public School District,http://www.allendalek8.com,0,NEEDS EXTRACTION
+Great Oaks Legacy Charter School,http://www.greatoakslegacy.org,0,NEEDS EXTRACTION
+Roseville Community Charter School,http://www.rosevillecharter.org,0,NEEDS EXTRACTION
+Dr Lena Edwards Academic Charter School,http://www.drlenaedwardscharterschool.org,0,NEEDS EXTRACTION
+BelovED Community Charter,http://www.belovedccs.org,0,NEEDS EXTRACTION
+Hope Community Charter School,http://www.hopecommunitycharterschool.org,0,NEEDS EXTRACTION
+Philip's Academy Charter School,http://www.pacsnewark.org,0,NEEDS EXTRACTION
+Paterson Arts and Science Charter School,http://ilearnschools.org/paterson-arts-science-charter-school/,0,NEEDS EXTRACTION
+Compass Academy Charter School,http://www.compassacademycharter.org,0,NEEDS EXTRACTION
+Jersey City Global Charter School,http://www.jcgcs.org,0,NEEDS EXTRACTION
+South Hunterdon Regional School District,http://www.shrsd.org,0,NEEDS EXTRACTION
+Trenton STEM-to-Civics Charter School,http://www.stemcivics.org,0,NEEDS EXTRACTION
+Atlantic Community Charter School,http://www.atlanticcommunitycharter.com,0,NEEDS EXTRACTION
+Mastery Schools of Camden Inc.,http://www.masterynj.org,0,NEEDS EXTRACTION
+Link Community Charter School,http://www.linkschool.org,0,NEEDS EXTRACTION
+Camden Prep Inc.,http://www.camdenprep.uncommonschools.org,0,NEEDS EXTRACTION
+KIPP: Cooper Norcross A New Jersey Nonprofit Corporation,http://www.kippnj.org,0,NEEDS EXTRACTION
+Marie H. Katzenbach School for the Deaf,http://www.mksd.org,0,NEEDS EXTRACTION
+College Achieve Central Charter School,http://www.collegeachievecentral.org/,0,NEEDS EXTRACTION
+Allenhurst School District,http://www.allenhurstnj.org,0,NEEDS EXTRACTION
+Empowerment Academy Charter School,http://www.empacad.org,0,NEEDS EXTRACTION
+Bridgeton Public Charter School,http://www.bridgetonpubliccharterschool.org,0,NEEDS EXTRACTION
+Principle Academy Charter School,http://www.principleacademycharter.org,0,NEEDS EXTRACTION
+Philip's Academy Charter School of Paterson,http://www.pacspaterson.org,0,NEEDS EXTRACTION
+Camden's Promise Charter School,http://www.promiseacademycharter.org,0,NEEDS EXTRACTION
+Cresthaven Academy Charter School,http://www.cresthavenacademy.org,0,NEEDS EXTRACTION
+Hudson Arts and Science Charter School,http://ilearnschools.org/hudson-arts-science-charter-school/,0,NEEDS EXTRACTION
+LEAD Charter School,http://leadcharterschool.org/,0,NEEDS EXTRACTION
+Ocean Academy Charter School,http://www.oceanacademycharter.com/,0,NEEDS EXTRACTION
+Loch Arbour School District,http://www.locharbournj.us/,0,NEEDS EXTRACTION
+College Achieve Greater Asbury Park Charter School Distr,http://www.collegeachieveasbury.org,0,NEEDS EXTRACTION
+College Achieve Paterson Charter School,http://collegeachievepaterson.org,0,NEEDS EXTRACTION
+Achievers Early College Prep Charter School,http://achieversecp.org/,0,NEEDS EXTRACTION
+Middlesex County STEM Charter School,http://www.middlesexcharter.org,0,NEEDS EXTRACTION
+BERGEN CO JDC,,0,NEEDS EXTRACTION
+ESSEX CO JDC,,0,NEEDS EXTRACTION
+OCEAN CO JDC,,0,NEEDS EXTRACTION
+MIDDLESEX CO JDC,,0,NEEDS EXTRACTION
+BURLINGTON CO JDC,,0,NEEDS EXTRACTION
+CAMDEN CO JDC,,0,NEEDS EXTRACTION
+ATLANTIC CO JDC,,0,NEEDS EXTRACTION
+MORRIS CO JDC,,0,NEEDS EXTRACTION
+Creativity CoLaboratory Charter School,http://c3school.us/,0,NEEDS EXTRACTION
+Alloway Twp School District,http://www.allowayschool.org,0,NEEDS EXTRACTION
+Alpha Borough School District,http://www.apsedu.org,0,NEEDS EXTRACTION
+Alpine School District,http://www.alpineschool.org,0,NEEDS EXTRACTION
+Andover Regional School District,http://www.andoverregional.org,0,NEEDS EXTRACTION
+Asbury Park School District,http://www.asburypark.k12.nj.us,0,NEEDS EXTRACTION
+Atlantic City School District,http://www.acboe.org,0,NEEDS EXTRACTION
+Atlantic County Vocational School District,http://www.acitech.org,0,NEEDS EXTRACTION
+Audubon Public School District,http://www.audubonschools.org,0,NEEDS EXTRACTION
+Avalon School District,http://www.avalonstoneharborschools.org,0,NEEDS EXTRACTION
+Avon Boro School District,http://WWW.AVONSCHOOL.COM,0,NEEDS EXTRACTION
+Barrington School District,http://www.barringtonschools.net,0,NEEDS EXTRACTION
+Bass River Township Board of Education,http://WWW.BASSRIVERSCHOOLDISTRICT.ORG,0,NEEDS EXTRACTION
+Bay Head Borough School District,http://www.bayheadschool.org,0,NEEDS EXTRACTION
+Bayonne School District,http://www.bboed.org,0,NEEDS EXTRACTION
+Beach Haven School District,http://www.BeachHavenSchool.com,0,NEEDS EXTRACTION
+Bedminster Township Public School District,http://www.bedminsterschool.org,0,NEEDS EXTRACTION
+Belleville Public School District,http://www.bellevilleschools.org,0,NEEDS EXTRACTION
+Bellmawr Public School District,http://www.bellmawrschools.org,0,NEEDS EXTRACTION
+Belmar Elementary School District,http://www.belmar.k12.nj.us,0,NEEDS EXTRACTION
+Belvidere School District,http://www.belvideresd.org,0,NEEDS EXTRACTION
+Bergen County Special Services School District,http://bcss.bergen.org,0,NEEDS EXTRACTION
+Bergen County Vocational Technical School District,http://bcts.bergen.org,0,NEEDS EXTRACTION
+Bergenfield Borough School District,http://www.bergenfield.org,0,NEEDS EXTRACTION
+Berkeley Heights School District,http://www.bhpsnj.org,0,NEEDS EXTRACTION
+Berkeley Township School District,http://www.btboe.org,0,NEEDS EXTRACTION
+Berlin Borough School District,http://www.bcsberlin.org,0,NEEDS EXTRACTION
+Berlin Township School District,http://www.btwpschools.org,0,NEEDS EXTRACTION
+Bernards Township School District,http://www.bernardsboe.com,0,NEEDS EXTRACTION
+Bethlehem Township School District,http://www.btschools.org,0,NEEDS EXTRACTION
+Beverly City School District,http://www.beverlycityschool.org,0,NEEDS EXTRACTION
+Black Horse Pike Regional School District,http://www.bhprsd.org,0,NEEDS EXTRACTION
+Blairstown Elementary Township School District,http://www.blairstownelem.net,0,NEEDS EXTRACTION
+Bloomfield Township School District,http://www.bloomfield.k12.nj.us,0,NEEDS EXTRACTION
+Bloomingdale School District,http://www.bpsnj.org,0,NEEDS EXTRACTION
+Bloomsbury Borough School District,http://www.bburyes.org,0,NEEDS EXTRACTION
+Bogota Public School District,http://www.bogotaboe.com,0,NEEDS EXTRACTION
+Boonton Town Public School District,http://www.boontonschools.org,0,NEEDS EXTRACTION
+Boonton Township School District,http://www.btrvs.org,0,NEEDS EXTRACTION
+Bordentown Regional School District,http://www.bordentown.k12.nj.us,0,NEEDS EXTRACTION
+Bound Brook School District,http://bbrook.org/,0,NEEDS EXTRACTION
+Bradley Beach School District,http://www.bbesnj.org,0,NEEDS EXTRACTION
+Branchburg Township School District,http://www.branchburg.k12.nj.us,0,NEEDS EXTRACTION
+Brick Township Public School District,http://www.brickschools.org,0,NEEDS EXTRACTION
+Bridgeton City School District,http://www.Bridgeton.k12.nj.us,0,NEEDS EXTRACTION
+Bridgewater-Raritan Regional School District,http://www.brrsd.org,0,NEEDS EXTRACTION
+Brielle Boro School District,http://www.brielleschool.org,0,NEEDS EXTRACTION
+Brigantine Public School District,http://www.brigantineschools.org,0,NEEDS EXTRACTION
+Brooklawn Public School District,http://www.alicecostello.com,0,NEEDS EXTRACTION
+Buena Regional School District,http://www.buenaschools.org,0,NEEDS EXTRACTION
+Burlington City Public School District,http://www.burlington-nj.net/,0,NEEDS EXTRACTION
+Burlington County Special Services School District,http://www.bcsssd.k12.nj.us,0,NEEDS EXTRACTION
+Burlington Township School District,http://www.burltwpsch.org,0,NEEDS EXTRACTION
+Burlington County Institute of Technology School District,http://www.burlcoschools.org,0,NEEDS EXTRACTION
+Butler Public School District,http://www.butlerboe.org,0,NEEDS EXTRACTION
+Byram Township School District,http://www.byramschools.org,0,NEEDS EXTRACTION
+Caldwell-West School District,http://www.cwcboe.org,0,NEEDS EXTRACTION
+Califon Borough School District,http://www.califonschool.org,0,NEEDS EXTRACTION
+Camden City School District,http://WWW.CAMDENCITYSCHOOLS.ORG,0,NEEDS EXTRACTION
+Camden County Technical School District,http://www.ccts.org,0,NEEDS EXTRACTION
+Cape May City School District,http://www.cmcboe.org,0,NEEDS EXTRACTION
+Cape May County Technical High School District,http://www.capemaytech.com,0,NEEDS EXTRACTION
+Cape May County Special Services School District,http://www.cmcspecialservices.org,0,NEEDS EXTRACTION
+Cape May Point School District,http://www.capemaycityschool.org,0,NEEDS EXTRACTION
+Carlstadt Public School District,http://www.carlstadt.org,0,NEEDS EXTRACTION
+Carlstadt-East Rutherford Regional High School District,http://www.bectonhs.org,0,NEEDS EXTRACTION
+Carteret Public School District,http://www.carteretschools.org,0,NEEDS EXTRACTION
+Cedar Grove Township School District,http://www.cgschools.org,0,NEEDS EXTRACTION
+Sterling Regional School District,http://www.sterling.k12.nj.us,0,NEEDS EXTRACTION
+Central Regional School District,http://www.centralreg.k12.nj.us,0,NEEDS EXTRACTION
+Cherry Hill School District,http://www.chclc.org,0,NEEDS EXTRACTION
+Chesilhurst Board of Education,http://www.chesilhurstboe.org,0,NEEDS EXTRACTION
+Chester Township School District,http://www.chester-nj.org,0,NEEDS EXTRACTION
+Chesterfield Township School District,http://www.chesterfieldschool.com,0,NEEDS EXTRACTION
+Cinnaminson Township School District,http://www.cinnaminson.com,0,NEEDS EXTRACTION
+Clark Township Public School District,http://www.clarkschools.org,0,NEEDS EXTRACTION
+Clayton Public School District,http://www.claytonps.org,0,NEEDS EXTRACTION
+Clearview Regional High School District,http://www.clearviewregional.edu,0,NEEDS EXTRACTION
+Clementon Elementary School District,http://clementon.k12.nj.us,0,NEEDS EXTRACTION
+Cliffside Park School District,http://www.cliffsidepark.edu,0,NEEDS EXTRACTION
+Clifton Public School District,http://www.clifton.k12.nj.us/,0,NEEDS EXTRACTION
+Clinton-Glen Gardner School District,http://cpsnj.org,0,NEEDS EXTRACTION
+Clinton Township School District,http://www.ctsdnj.org,0,NEEDS EXTRACTION
+Closter Public School District,http://www.closterschools.org,0,NEEDS EXTRACTION
+Collingswood Public School District,http://www.collsk12.org,0,NEEDS EXTRACTION
+Colts Neck Township School District,http://www.coltsneckschools.org,0,NEEDS EXTRACTION
+Commercial Township School District,http://www.commercialschools.org,0,NEEDS EXTRACTION
+Corbin City School District,http://n/a,0,NEEDS EXTRACTION
+Cranbury Township School District,http://www.cranburyschool.org,0,NEEDS EXTRACTION
+Cranford Public School District,http://cranfordschools.org,0,NEEDS EXTRACTION
+Cresskill Public School District,http://www.cboek12.org,0,NEEDS EXTRACTION
+Cumberland County Board of Vocational Education,http://www.cctecnj.org,0,NEEDS EXTRACTION
+Cumberland Regional School District,http://www.crhsd.org,0,NEEDS EXTRACTION
+Deal Boro School District,http://www.dealschool.org,0,NEEDS EXTRACTION
+Deerfield Township School District,http://www.deerfield.k12.nj.us,0,NEEDS EXTRACTION
+Delanco Township School District,http://www.delanco.com,0,NEEDS EXTRACTION
+Delaware Township School District,http://www.dtsk8.org,0,NEEDS EXTRACTION
+Delaware Valley Regional High School District,http://www.dvrhs.org,0,NEEDS EXTRACTION
+Delran Township School District,http://www.delranschools.org,0,NEEDS EXTRACTION
+Demarest School District,http://demarestpublicschools.org,0,NEEDS EXTRACTION
+Dennis Township School District,http://www.dtschools.org,0,NEEDS EXTRACTION
+Denville Township K-8 School District,http://www.denville.org,0,NEEDS EXTRACTION
+Deptford Township Public School District,http://www.deptfordschools.org/,0,NEEDS EXTRACTION
+Dover Public School District,http://dover-nj.org,0,NEEDS EXTRACTION
+Downe Township School District,http://www.downeschool.org,0,NEEDS EXTRACTION
+Dumont Public School District,http://www.dumontnj.org,0,NEEDS EXTRACTION
+Dunellen Public School District,http://www.dunellenschools.org,0,NEEDS EXTRACTION
+Eagleswood Township School District,http://www.eagleswood.org,0,NEEDS EXTRACTION
+East Amwell Township School District,http://www.eastamwell.org,0,NEEDS EXTRACTION
+East Brunswick Township School District,http://www.ebnet.org,0,NEEDS EXTRACTION
+East Greenwich Township School District,http://www.eastgreenwich.k12.nj.us,0,NEEDS EXTRACTION
+East Hanover Township School District,http://www.easthanoverschools.org,0,NEEDS EXTRACTION
+East Newark School District,http://www.eastnewarkschool.org,0,NEEDS EXTRACTION
+East Orange School District,http://www.eastorange.k12.nj.us,0,NEEDS EXTRACTION
+East Rutherford School District,http://www.erboe.net,0,NEEDS EXTRACTION
+East Windsor Regional School District,http://www.ewrsd.org,0,NEEDS EXTRACTION
+Eastampton Township School District,http://www.etsdnj.us,0,NEEDS EXTRACTION
+Eastern Camden County Regional School District,http://www.eccrsd.us,0,NEEDS EXTRACTION
+Eatontown Public School District,http://www.eatontown.org,0,NEEDS EXTRACTION
+Edgewater School District,http://www.edgewaterschools.org,0,NEEDS EXTRACTION
+Edgewater Park Township School District,http://www.edgewaterparksd.org,0,NEEDS EXTRACTION
+Edison Township School District,http://www.edison.k12.nj.us,0,NEEDS EXTRACTION
+Egg Harbor City School District,http://www.eggharborcityschools.com,0,NEEDS EXTRACTION
+Egg Harbor Township School District,http://www.eht.k12.nj.us,0,NEEDS EXTRACTION
+Elizabeth Public Schools,http://www.epsnj.org,0,NEEDS EXTRACTION
+Elk Township School District,http://www.auraelementary.us,0,NEEDS EXTRACTION
+Elmwood Park School District,http://www.elmwoodparkschools.org/www.elmwoodparkschools.org/,0,NEEDS EXTRACTION
+Elsinboro Township School District,http://www.elsinboroschool.org,0,NEEDS EXTRACTION
+Emerson Public School District,http://www.emersonschools.org,0,NEEDS EXTRACTION
+Englewood Public School District,http://www.epsd.org,0,NEEDS EXTRACTION
+Englewood Cliffs School District,http://www.englewoodcliffs.org,0,NEEDS EXTRACTION
+Essex County Schools of Technology,http://www.essextech.org,0,NEEDS EXTRACTION
+Essex Fells School District,http://www.efsk-6.org,0,NEEDS EXTRACTION
+Estell Manor School District,http://www.estellmanorschool.com,0,NEEDS EXTRACTION
+Evesham Township School District,http://www.evesham.k12.nj.us,0,NEEDS EXTRACTION
+Ewing Township School District,http://www.ewing.k12.nj.us,0,NEEDS EXTRACTION
+Fair Haven School District,http://www.fairhaven.edu,0,NEEDS EXTRACTION
+Fair Lawn Public School District,http://www.fairlawnschools.org,0,NEEDS EXTRACTION
+Fairfield Public School District,http://www.fpsk6.org,0,NEEDS EXTRACTION
+Fairfield Township School District,http://www.fairfield.k12.nj.us,0,NEEDS EXTRACTION
+Fairview Public School District,http://www.fairviewps.org,0,NEEDS EXTRACTION
+Farmingdale Public School District,http://www.farmingdaleschool.com,0,NEEDS EXTRACTION
+Flemington-Raritan Regional School District,http://www.frsd.k12.nj.us,0,NEEDS EXTRACTION
+Florence Township School District,http://www.florence.k12.nj.us,0,NEEDS EXTRACTION
+Florham Park School District,http://www.fpks.org,0,NEEDS EXTRACTION
+Folsom Borough School District,http://www.folsomschool.org/,0,NEEDS EXTRACTION
+Fort Lee School District,http://www.flboe.com,0,NEEDS EXTRACTION
+Frankford Township Consolidated School District,http://www.frankfordschool.org,0,NEEDS EXTRACTION
+Franklin Lakes School District,http://www.franklinlakes.k12.nj.us,0,NEEDS EXTRACTION
+Franklin Borough School District,http://www.fboe.org,0,NEEDS EXTRACTION
+Township of Franklin School District,http://www.franklintwpschools.org,0,NEEDS EXTRACTION
+Franklin Township School District,http://www.ftschool.org,0,NEEDS EXTRACTION
+Franklin Township Public School District,http://www.franklinboe.org,0,NEEDS EXTRACTION
+Franklin Township School District,http://www.franklinschool.org,0,NEEDS EXTRACTION
+Fredon Township School District,http://www.fredon.org,0,NEEDS EXTRACTION
+Freehold Borough School District,http://www.freeholdboro.k12.nj.us,0,NEEDS EXTRACTION
+Freehold Regional High School District,http://www.frhsd.com,0,NEEDS EXTRACTION
+Freehold Township School District,http://www.freeholdtwp.k12.nj.us,0,NEEDS EXTRACTION
+Frelinghuysen Township School District,http://WWW.FRELINGHUYSENSCHOOL.ORG,0,NEEDS EXTRACTION
+Frenchtown Borough School District,http://www.frenchtownschool.org/,0,NEEDS EXTRACTION
+Galloway Township Public School District,http://WWW.GTPS.K12.NJ.US,0,NEEDS EXTRACTION
+Garfield Public School District,http://gboe.org,0,NEEDS EXTRACTION
+Garwood Boro,http://www.garwoodschools.org,0,NEEDS EXTRACTION
+Gateway Regional High School District,http://www.gatewayhs.com,0,NEEDS EXTRACTION
+Gibbsboro Elementary School District,http://www.gibbsboroschool.org,0,NEEDS EXTRACTION
+Glassboro School District,http://www.gpsd.us,0,NEEDS EXTRACTION
+Glen Ridge Public School District,http://www.glenridge.org,0,NEEDS EXTRACTION
+Glen Rock Public School District,http://WWW.GLENROCKNJ.ORG,0,NEEDS EXTRACTION
+Gloucester City Public School District,http://gcsd.k12.nj.us,0,NEEDS EXTRACTION
+Gloucester Township Public Schools,http://www.gloucestertownshipschools.org,0,NEEDS EXTRACTION
+Gloucester County Vocational-Technical School District,http://www.gcit.org,0,NEEDS EXTRACTION
+Greater Egg Harbor Regional High School District,http://www.gehrhsd.net,0,NEEDS EXTRACTION
+Green Township School District,http://www.greenhills.org,0,NEEDS EXTRACTION
+Green Brook Township Public School District,http://www.gbtps.org,0,NEEDS EXTRACTION
+Greenwich Township School District,http://www.greenwichstowcreekpartnershipschools.org,0,NEEDS EXTRACTION
+Greenwich Township School District,http://www.gtsdk8.us,0,NEEDS EXTRACTION
+Greenwich Township School District,http://www.gtsd.net,0,NEEDS EXTRACTION
+Guttenberg School District,http://www.alkschool.org,0,NEEDS EXTRACTION
+Hackensack School District,http://hackensackschools.org,0,NEEDS EXTRACTION
+Hackettstown Public School District,http://www.hackettstown.org,0,NEEDS EXTRACTION
+HADDON HEIGHTS School District,http://www.gogarnets.com,0,NEEDS EXTRACTION
+Haddon Township School District,http://HADDONTWPSCHOOLS.COM,0,NEEDS EXTRACTION
+Haddonfield School District,http://haddonfield.k12.nj.us,0,NEEDS EXTRACTION
+Hainesport Township School District,http://www.hainesport.k12.nj.us,0,NEEDS EXTRACTION
+Haledon Public School District,http://www.haledon.org,0,NEEDS EXTRACTION
+Hamburg School District,http://www.hamburgschool.com,0,NEEDS EXTRACTION
+Hamilton Township School District,http://www.hamiltonschools.org,0,NEEDS EXTRACTION
+Hamilton Township Public School District,http://www.htsdnj.org,0,NEEDS EXTRACTION
+Hammonton School District,http://www.hammontonps.org,0,NEEDS EXTRACTION
+Hampton Borough School District,http://www.hamptonpublicschool.ORG,0,NEEDS EXTRACTION
+Hampton Township School District,http://www.mckeown.org,0,NEEDS EXTRACTION
+Hanover Park Regional High School District,http://www.hpreg.org,0,NEEDS EXTRACTION
+Hanover Township School District,http://www.hanovertwpschools.com,0,NEEDS EXTRACTION
+Harding Township School District,http://www.hardingtwp.org,0,NEEDS EXTRACTION
+Hardyston Township School District,http://www.htps.org,0,NEEDS EXTRACTION
+Harmony Township School District,http://www.htesd.org,0,NEEDS EXTRACTION
+Harrington Park School District,http://www.hpsd.org,0,NEEDS EXTRACTION
+Harrison Public Schools,http://www.harrisonschools.org,0,NEEDS EXTRACTION
+Harrison Township School District,http://www.harrisontwp.k12.nj.us,0,NEEDS EXTRACTION
+Hasbrouck Heights School District,http://www.hhschools.org,0,NEEDS EXTRACTION
+Haworth Public School District,http://www.haworth.org,0,NEEDS EXTRACTION
+Hawthorne Public School District,http://www.hawthorneschools.org/,0,NEEDS EXTRACTION
+Hi Nella,http://stratford.k12.nj.us,0,NEEDS EXTRACTION
+High Bridge Borough School District,http://www.hbschools.org,0,NEEDS EXTRACTION
+High Point Regional High School District,http://www.hpregional.org,0,NEEDS EXTRACTION
+Highland Park Boro School District,http://WWW.HPSCHOOLS.NET,0,NEEDS EXTRACTION
+Hillsborough Township Public School District,http://www.htps.us,0,NEEDS EXTRACTION
+Hillsdale School District,http://www.hillsdaleschools.com,0,NEEDS EXTRACTION
+Hillside Public School District,http://hillsidepsnj.sites.thrillshare.com/,0,NEEDS EXTRACTION
+Ho-Ho-Kus School District,http://www.hohokus.org,0,NEEDS EXTRACTION
+Hoboken Public School District,http://www.hoboken.k12.nj.us,0,NEEDS EXTRACTION
+Holland Township School District,http://www.hollandschool.org,0,NEEDS EXTRACTION
+Holmdel Township School District,http://www.holmdelschools.org,0,NEEDS EXTRACTION
+Hopatcong Borough School District,http://www.hopatcongschools.org,0,NEEDS EXTRACTION
+Hope Township School District,http://www.hope-elem.org,0,NEEDS EXTRACTION
+Hopewell Township School District,http://hopewellcrest.org,0,NEEDS EXTRACTION
+Hopewell Valley Regional School District,http://www.hvrsd.org,0,NEEDS EXTRACTION
+Howell Township Public School District,http://www.howell.k12.nj.us/,0,NEEDS EXTRACTION
+Hudson County Schools of Technology School District,http://www.hcstonline.org,0,NEEDS EXTRACTION
+Hunterdon Central Regional High School District,http://www.hcrhs.org,0,NEEDS EXTRACTION
+Interlaken School District,http://www.interlakenboro.com,0,NEEDS EXTRACTION
+Irvington Public School District,http://www.irvington.k12.nj.us,0,NEEDS EXTRACTION
+Island Heights School District,http://www.islandheights.k12.nj.us,0,NEEDS EXTRACTION
+Jackson Township School District,http://www.jacksonsd.org,0,NEEDS EXTRACTION
+Jamesburg Public School District,http://www.jamesburg.org,0,NEEDS EXTRACTION
+Jefferson Township Public School District,http://www.jefftwp.org,0,NEEDS EXTRACTION
+Jersey City Public Schools,http://www.jcboe.org,0,NEEDS EXTRACTION
+Keansburg School District,http://www.keansburg.k12.nj.us,0,NEEDS EXTRACTION
+Kearny,http://kearnyschools.com,0,NEEDS EXTRACTION
+Kenilworth School District,http://www.kenilworthschools.com,0,NEEDS EXTRACTION
+Keyport School District,http://www.kpsdschools.org,0,NEEDS EXTRACTION
+Kingsway Regional School District,http://www.krsd.org,0,NEEDS EXTRACTION
+Kingwood Township School District,http://WWW.KINGWOODSCHOOL.ORG,0,NEEDS EXTRACTION
+Kinnelon School District,http://www.kinnelonpublicschools.org,0,NEEDS EXTRACTION
+Kittatinny Regional School District,http://www.krhs.net,0,NEEDS EXTRACTION
+Knowlton Township School District,http://www.knowltonschool.com,0,NEEDS EXTRACTION
+Lacey Township School District,http://www.laceyschools.org,0,NEEDS EXTRACTION
+Lafayette Township School District,http://www.ltes.org,0,NEEDS EXTRACTION
+Lakehurst School District,http://www.lakehurstschool.org,0,NEEDS EXTRACTION
+Lakeland Regional High School District,http://www.lakeland.k12.nj.us,0,NEEDS EXTRACTION
+Lakewood Township School District,http://www.lakewoodpiners.org,0,NEEDS EXTRACTION
+Laurel Springs School District,http://www.laurelspringschool.org,0,NEEDS EXTRACTION
+Lavallette Borough School District,http://www.lavallettek12.org,0,NEEDS EXTRACTION
+Lawnside School District,http://www.lawnside.k12.nj.us,0,NEEDS EXTRACTION
+Lawrence Township School District,http://www.myronlpowell.org,0,NEEDS EXTRACTION
+Lawrence Township Public School District,http://www.ltps.org,0,NEEDS EXTRACTION
+Lebanon Borough School District,http://www.lebanonschool.org,0,NEEDS EXTRACTION
+Lebanon Township School District,http://www.lebtwpk8.org,0,NEEDS EXTRACTION
+Lenape Regional High School District,http://www.lrhsd.org,0,NEEDS EXTRACTION
+Lenape Valley Regional High School District,http://www.lvhs.org,0,NEEDS EXTRACTION
+Leonia Public School District,http://www.leoniaschools.org,0,NEEDS EXTRACTION
+Lincoln Park School District,http://www.lincolnparkboe.org,0,NEEDS EXTRACTION
+Linden Public School District,http://www.lindenps.org,0,NEEDS EXTRACTION
+Lindenwold Public School District,http://www.lindenwold.k12.nj.us,0,NEEDS EXTRACTION
+Linwood City School District,http://www.linwoodschools.org,0,NEEDS EXTRACTION
+Longport Board of Education,http://none,0,NEEDS EXTRACTION
+Little Egg Harbor Township School District,http://www.lehsd.org,0,NEEDS EXTRACTION
+Little Falls Township Public School District,http://www.lfschools.org,0,NEEDS EXTRACTION
+Little Ferry Public School District,http://www.lfboe.org,0,NEEDS EXTRACTION
+Little Silver Boro School District,http://WWW.LITTLESILVERSCHOOLS.ORG,0,NEEDS EXTRACTION
+Livingston Board of Education School District,http://www.livingston.org,0,NEEDS EXTRACTION
+Lodi School District,http://www.lodinjschools.org/,0,NEEDS EXTRACTION
+Logan Township School District,http://www.logantownshipschools.org,0,NEEDS EXTRACTION
+Long Beach Island School District,http://www.lbischools.org,0,NEEDS EXTRACTION
+LONG BRANCH PUBLIC SCHOOL District,http://www.longbranch.k12.nj.us,0,NEEDS EXTRACTION
+Lopatcong Township School District,http://www.lopatsd.org,0,NEEDS EXTRACTION
+The Lower Alloways Creek School District,http://www.lacschool.org,0,NEEDS EXTRACTION
+Lower Cape May Regional School District,http://www.lcmrschools.com,0,NEEDS EXTRACTION
+Pennsville School District,http://www.psdnet.org,0,NEEDS EXTRACTION
+Lower Township Elementary School District,http://www.lowertwpschools.com,0,NEEDS EXTRACTION
+Lumberton Township Board of Education,http://www.lumberton.k12.nj.us,0,NEEDS EXTRACTION
+Lyndhurst Public School District,http://www.lyndhurstschools.net,0,NEEDS EXTRACTION
+Madison Public School District,http://www.madisonpublicschools.org,0,NEEDS EXTRACTION
+Old Bridge Township School District,http://www.oldbridgeadmin.org,0,NEEDS EXTRACTION
+Magnolia School District,http://www.magnoliaschools.org,0,NEEDS EXTRACTION
+Mahwah Township Public School District,http://www.mahwah.k12.nj.us,0,NEEDS EXTRACTION
+Mainland Regional High School,http://MAINLANDREGIONAL.NET,0,NEEDS EXTRACTION
+Manalapan-Englishtown Regional School District,http://www.mersnj.us/,0,NEEDS EXTRACTION
+Manasquan School District,http://www.manasquanschools.org,0,NEEDS EXTRACTION
+Manchester Township School District,http://www.manchestertwp.org,0,NEEDS EXTRACTION
+Mannington Township School District,http://manningtonschool.org,0,NEEDS EXTRACTION
+Mansfield Township School District,http://www.mansfieldschool.com,0,NEEDS EXTRACTION
+Mansfield Township Elementary School District,http://www.mansfieldtsd.org,0,NEEDS EXTRACTION
+North Warren Regional,http://www.northwarren.org,0,NEEDS EXTRACTION
+Mantua Township School District,http://www.mantuaschools.com,0,NEEDS EXTRACTION
+Manville School District,http://www.manvilleschools.org,0,NEEDS EXTRACTION
+Maple Shade School District,http://www.mapleshade.org,0,NEEDS EXTRACTION
+Margate City School District,http://www.margateschools.org,0,NEEDS EXTRACTION
+Marlboro Township School District,http://www.mtps.org,0,NEEDS EXTRACTION
+Matawan-Aberdeen Regional School District,http://www.marsd.org,0,NEEDS EXTRACTION
+Maurice River Township School District,http://WWW.MRTES.COM,0,NEEDS EXTRACTION
+Maywood School District,http://WWW.MAYWOODSCHOOLS.ORG,0,NEEDS EXTRACTION
+Medford Lakes School District,http://www.medford-lakes.k12.nj.us,0,NEEDS EXTRACTION
+Medford Township School District,http://www.medford.k12.nj.us,0,NEEDS EXTRACTION
+Mendham Borough School District,http://www.mendhamboro.org,0,NEEDS EXTRACTION
+Mendham Township School District,http://www.mendhamtwp.org,0,NEEDS EXTRACTION
+Area Vocational Technical School District of Mercer County,http://www.mcts.edu,0,NEEDS EXTRACTION
+Merchantville School District,http://www.merchantvilleschool.org,0,NEEDS EXTRACTION
+Metuchen Public School District,http://www.metuchenschools.org,0,NEEDS EXTRACTION
+Middle Township Public School District,http://middletownshippublicschools.org/,0,NEEDS EXTRACTION
+Middlesex Borough School District,http://www.middlesex.k12.nj.us,0,NEEDS EXTRACTION
+Middlesex County Vocational and Technical School District,http://www.mcmsnj.net,0,NEEDS EXTRACTION
+Middletown Township Public School District,http://www.middletownk12.org,0,NEEDS EXTRACTION
+Midland Park School District,http://www.mpsnj.org,0,NEEDS EXTRACTION
+Milford Borough School District,http://www.milfordpublicschool.com,0,NEEDS EXTRACTION
+Millburn Township School District,http://www.millburn.org,0,NEEDS EXTRACTION
+Millstone Township School District,http://www.millstone.k12.nj.us,0,NEEDS EXTRACTION
+Milltown School District,http://www.milltownps.org,0,NEEDS EXTRACTION
+Millville School District,http://www.millville.org,0,NEEDS EXTRACTION
+Mine Hill Township School District,http://www.minehillcas.org,0,NEEDS EXTRACTION
+Monmouth Beach School District,http://WWW.MBSCHOOL.ORG,0,NEEDS EXTRACTION
+Monmouth Regional High School,http://www.monmouthregional.net,0,NEEDS EXTRACTION
+Monroe Township Public School District,http://www.monroetwp.k12.nj.us/,0,NEEDS EXTRACTION
+Monroe Township School District,http://WWW.MONROE.K12.NJ.US,0,NEEDS EXTRACTION
+Montague Township School District,http://WWW.MONTAGUESCHOOL.ORG,0,NEEDS EXTRACTION
+Montclair Public School District,http://www.montclair.k12.nj.us,0,NEEDS EXTRACTION
+Montgomery Township School District,http://www.mtsd.k12.nj.us,0,NEEDS EXTRACTION
+Montvale Board of Education School District,http://www.montvalek8.org,0,NEEDS EXTRACTION
+Montville Township School District,http://www.montville.net/,0,NEEDS EXTRACTION
+Moonachie School District,http://www.moonachieschool.org,0,NEEDS EXTRACTION
+Moorestown Township Public School District,http://www.mtps.com,0,NEEDS EXTRACTION
+Morris County Vocational School District,http://www.mcvts.org,0,NEEDS EXTRACTION
+Morris Hills Regional School District,http://www.mhrd.org,0,NEEDS EXTRACTION
+Morris Plains School District,http://sites.google.com/mpsdk8.org/mpsdk8/home,0,NEEDS EXTRACTION
+Morris School District,http://www.morrisschooldistrict.org,0,NEEDS EXTRACTION
+Mount Arlington Public School District,http://www.mtartlingtonk8.org,0,NEEDS EXTRACTION
+Mt. Ephraim School District,http://www.mtephraimschools.com,0,NEEDS EXTRACTION
+Mount Holly Township Public School District,http://www.mtholly.k12.nj.us,0,NEEDS EXTRACTION
+Mount Laurel Township School District,http://www.mtlaurelschools.org,0,NEEDS EXTRACTION
+Mount Olive Township School District,http://www.motsd.org/,0,NEEDS EXTRACTION
+Mountain Lakes Public School District,http://www.mlschools.org/district,0,NEEDS EXTRACTION
+Mountainside School District,http://www.mountainsideschools.org,0,NEEDS EXTRACTION
+Mullica Township School District,http://www.mullicaschools.com,0,NEEDS EXTRACTION
+National Park Borough School District,http://www.npelem.com,0,NEEDS EXTRACTION
+Neptune City School District,http://www.neptunecityschool.org,0,NEEDS EXTRACTION
+Neptune Township School District,http://www.neptune.k12.nj.us,0,NEEDS EXTRACTION
+Netcong School District,http://www.netcongschool.org,0,NEEDS EXTRACTION
+New Brunswick School District,http://www.nbpschools.net/,0,NEEDS EXTRACTION
+New Hanover Township,http://newhanover.k12.nj.us,0,NEEDS EXTRACTION
+New Milford Public School District,http://www.nmpsd.org,0,NEEDS EXTRACTION
+New Providence School District,http://www.npsd.k12.nj.us,0,NEEDS EXTRACTION
+Newark Public School District,http://WWW.NPS.K12.NJ.US,0,NEEDS EXTRACTION
+Newfield Boro School District,http://n/a,0,NEEDS EXTRACTION
+Newton Public School District,http://www.newtonnj.org,0,NEEDS EXTRACTION
+North Arlington School District,http://www.navikings.org,0,NEEDS EXTRACTION
+North Bergen School District,http://www.northbergen.k12.nj.us,0,NEEDS EXTRACTION
+North Brunswick Township School District,http://www.nbtschools.org,0,NEEDS EXTRACTION
+North Caldwell School District,http://www.ncboe.org,0,NEEDS EXTRACTION
+North Haledon School District,http://www.nhschools.net/nh,0,NEEDS EXTRACTION
+North Hanover Township School District,http://www.nhanover.com,0,NEEDS EXTRACTION
+North Hunterdon-Voorhees Regional High School District,http://www.nhvweb.net,0,NEEDS EXTRACTION
+North Plainfield School District,http://www.nplainfield.org,0,NEEDS EXTRACTION
+North Wildwood School District,http://www.mmace.com,0,NEEDS EXTRACTION
+Northern Burlington County Regional School District,http://www.nburlington.com,0,NEEDS EXTRACTION
+Northern Highlands Regional High School District,http://www.northernhighlands.org,0,NEEDS EXTRACTION
+Northern Valley Regional High School District,http://www.nvnet.org,0,NEEDS EXTRACTION
+Northfield City School District,http://www.ncs-nj.org,0,NEEDS EXTRACTION
+Northvale Public School District,http://www.NORTHVALESCHOOL.ORG,0,NEEDS EXTRACTION
+Norwood Public School District,http://www.wearenorwood.org,0,NEEDS EXTRACTION
+Nutley Public School District,http://www.nutleyschools.org,0,NEEDS EXTRACTION
+Oakland Public School District,http://www.oaklandschoolsnj.org,0,NEEDS EXTRACTION
+Oaklyn Public School District,http://www.oaklynschool.org,0,NEEDS EXTRACTION
+Ocean City School District,http://www.ocsdnj.org,0,NEEDS EXTRACTION
+Ocean County Vocational Technical School District,http://www.ocvts.org,0,NEEDS EXTRACTION
+Ocean Gate School District,http://www.oceangateschool.net,0,NEEDS EXTRACTION
+Township of Ocean School District,http://www.oceanschools.org,0,NEEDS EXTRACTION
+Ocean Township School District,http://www.otsdk6.org,0,NEEDS EXTRACTION
+Oceanport School District,http://oceanportschools.org,0,NEEDS EXTRACTION
+Ogdensburg Borough School District,http://www.obboe.org,0,NEEDS EXTRACTION
+Old Tappan Public School District,http://www.oldtappanschools.org,0,NEEDS EXTRACTION
+Oldmans Township School District,http://WWW.OLDMANS.ORG,0,NEEDS EXTRACTION
+Oradell Public School District,http://oradellschool.org,0,NEEDS EXTRACTION
+River Dell Regional School District,http://www.riverdell.org,0,NEEDS EXTRACTION
+ORANGE BOARD OF EDUCATION School District,http://www.orange.k12.nj.us,0,NEEDS EXTRACTION
+Oxford Township School District,http://www.oxfordcentral.org,0,NEEDS EXTRACTION
+Palisades Park School District,http://palpkschools.org,0,NEEDS EXTRACTION
+Palmyra Public School District,http://palmyraschools.com/,0,NEEDS EXTRACTION
+Paramus Public School District,http://www.paramus.k12.nj.us,0,NEEDS EXTRACTION
+Park Ridge School District,http://www.parkridgeschools.org/,0,NEEDS EXTRACTION
+Parsippany-Troy Hills Township School District,http://www.pthsd.k12.nj.us,0,NEEDS EXTRACTION
+Pascack Valley Regional High School District,http://www.pascack.org,0,NEEDS EXTRACTION
+Passaic City School District,http://www.passaicschools.org/,0,NEEDS EXTRACTION
+Passaic Valley Regional High School District,http://www.pvrhs.org,0,NEEDS EXTRACTION
+Passaic County Manchester Regional High School District,http://WWW.MRHS.NET,0,NEEDS EXTRACTION
+Passaic County Technical-Vocational School District,http://www.pctvs.org,0,NEEDS EXTRACTION
+Long Hill Township School District,http://www.longhill.org,0,NEEDS EXTRACTION
+Paterson Public School District,http://www.paterson.k12.nj.us,0,NEEDS EXTRACTION
+Paulsboro School District,http://WWW.PAULSBORO.K12.NJ.US,0,NEEDS EXTRACTION
+Pemberton Township School District,http://www.pemberton.k12.nj.us,0,NEEDS EXTRACTION
+Penns Grove-Carneys Point Regional School District,http://www.pgcpschools.org,0,NEEDS EXTRACTION
+Pennsauken Township Board of Education School District,http://PENNSAUKEN.NET,0,NEEDS EXTRACTION
+Pequannock Township School District,http://www.pequannock.org,0,NEEDS EXTRACTION
+Perth Amboy Public School District,http://www.paps.net,0,NEEDS EXTRACTION
+Phillipsburg School District,http://www.pburgsd.net,0,NEEDS EXTRACTION
+Pine Hill School District,http://www.pinehillschools.org,0,NEEDS EXTRACTION
+Pinelands Regional School District,http://www.pinelandsregional.org,0,NEEDS EXTRACTION
+Piscataway Township School District,http://www.piscatawayschools.org,0,NEEDS EXTRACTION
+Pitman Boro School District,http://pitman.k12.nj.us,0,NEEDS EXTRACTION
+Pittsgrove Township School District,http://www.pittsgrove.net,0,NEEDS EXTRACTION
+Plainfield Public School District,http://www.plainfieldnjk12.org,0,NEEDS EXTRACTION
+Pleasantville Public School District,http://www.pps-nj.us/pps/,0,NEEDS EXTRACTION
+Plumsted Township School District,http://www.newegypt.us,0,NEEDS EXTRACTION
+Pohatcong Township School District,http://www.pohatcong.org,0,NEEDS EXTRACTION
+Point Pleasant Borough School District,http://www.pointpleasant.k12.nj.us,0,NEEDS EXTRACTION
+Point Pleasant Beach School District,http://www.ptbeach.com,0,NEEDS EXTRACTION
+Pompton Lakes School District,http://plps-k12.org/en-us,0,NEEDS EXTRACTION
+Port Republic School District,http://www.portnj.org,0,NEEDS EXTRACTION
+Princeton Public School District,http://www.princetonk12.org,0,NEEDS EXTRACTION
+Prospect Park Public School District,http://www.prospectparknj.com,0,NEEDS EXTRACTION
+Quinton Township School District,http://www.quintonschool.info,0,NEEDS EXTRACTION
+Rahway Public School District,http://www.rahway.net,0,NEEDS EXTRACTION
+Ramapo Indian Hills Regional High School District,http://www.rih.org,0,NEEDS EXTRACTION
+Ramsey School District,http://www.ramsey.k12.nj.us,0,NEEDS EXTRACTION
+Rancocas Valley Regional High School District,http://www.rvrhs.com,0,NEEDS EXTRACTION
+Randolph Township School District,http://www.rtnj.org,0,NEEDS EXTRACTION
+Hazlet Township Public School District,http://www.hazlet.org,0,NEEDS EXTRACTION
+Readington Township School District,http://www.readington.k12.nj.us,0,NEEDS EXTRACTION
+Red Bank Borough Public School District,http://www.rbb.k12.nj.us,0,NEEDS EXTRACTION
+Red Bank Regional School District,http://www.rbrhs.org,0,NEEDS EXTRACTION
+Ridgefield School District,http://www.ridgefieldschools.com,0,NEEDS EXTRACTION
+Ridgefield Park Public School District,http://www.rpps.net,0,NEEDS EXTRACTION
+Ridgewood Public School District,http://www.rpsnj.us,0,NEEDS EXTRACTION
+Ringwood School District,http://www.njrps.org,0,NEEDS EXTRACTION
+River Edge School District,http://www.riveredgeschools.org,0,NEEDS EXTRACTION
+River Vale Public School District,http://www.rivervaleschools.com,0,NEEDS EXTRACTION
+Riverdale School District,http://www.rpsnj.org,0,NEEDS EXTRACTION
+Riverside Township School District,http://www.riverside.k12.nj.us,0,NEEDS EXTRACTION
+Riverton School District,http://rivertonschool.com/,0,NEEDS EXTRACTION
+Rochelle Park School District,http://www.rochellepark.org,0,NEEDS EXTRACTION
+Rockaway Borough School District,http://www.rockboro.org,0,NEEDS EXTRACTION
+Rockaway Township School District,http://www.rocktwp.net,0,NEEDS EXTRACTION
+Rockleigh School District,http://none,0,NEEDS EXTRACTION
+Roosevelt Borough Public School District,http://www.rps1.org,0,NEEDS EXTRACTION
+Roseland School District,http://www.roselandnjboe.org,0,NEEDS EXTRACTION
+Roselle Public School District,http://WWW.ROSELLESCHOOLS.ORG,0,NEEDS EXTRACTION
+Roselle Park Public School District,http://www.rpsd.org,0,NEEDS EXTRACTION
+Roxbury Township School District,http://www.roxbury.org,0,NEEDS EXTRACTION
+Rumson Borough School District,http://www.rumsonschool.org,0,NEEDS EXTRACTION
+Rumson-Fair Haven Regional High School District,http://www.rumsonfairhaven.org,0,NEEDS EXTRACTION
+Runnemede Public School District,http://www.runnemedeschools.org,0,NEEDS EXTRACTION
+Rutherford School District,http://www.rutherfordschools.org,0,NEEDS EXTRACTION
+Saddle Brook School District,http://www.sbpsnj.org,0,NEEDS EXTRACTION
+Saddle River School District,http://www.wandellschool.org,0,NEEDS EXTRACTION
+Salem City School District,http://www.SALEMNJ.ORG,0,NEEDS EXTRACTION
+Salem County Vocational Technical School District,http://www.scvts.org,0,NEEDS EXTRACTION
+Sandyston-Walpack Consolidated School District,http://www.sandystonwalpack.org,0,NEEDS EXTRACTION
+Sayreville School District,http://www.sayrevillek12.net,0,NEEDS EXTRACTION
+Scotch Plains-Fanwood School District,http://www.spfk12.org,0,NEEDS EXTRACTION
+Sea Girt Borough School District,http://www.seagirt.k12.nj.us,0,NEEDS EXTRACTION
+Sea Isle City Board of Education,http://www.seaislecitynj.us/SchoolBoard,0,NEEDS EXTRACTION
+Seaside Heights School District,http://www.sshschool.org/,0,NEEDS EXTRACTION
+Seaside Park Borough School District,http://www.seasideparkschool.com,0,NEEDS EXTRACTION
+Secaucus School District,http://www.sboe.org,0,NEEDS EXTRACTION
+Shamong Township School District,http://www.shamongschools.org,0,NEEDS EXTRACTION
+Shore Regional High School District,http://www.shoreregional.org,0,NEEDS EXTRACTION
+Shrewsbury Borough School District,http://www.sbs.k12.nj.us/sbs,0,NEEDS EXTRACTION
+Somerdale School District,http://www.somerdale-park.org,0,NEEDS EXTRACTION
+Somers Point School District,http://www.sptsd.org,0,NEEDS EXTRACTION
+Somerset County Vocational and Technical School District,http://www.scvths.org,0,NEEDS EXTRACTION
+Somerville Public School District,http://www.somervilleschools.org,0,NEEDS EXTRACTION
+South Amboy School District,http://www.sapublicschools.com,0,NEEDS EXTRACTION
+Lake Como School District,http://www.belmar.k12.nj.us/domain/113,0,NEEDS EXTRACTION
+South Bound Brook Public School District,http://www.southboundbrookk8.org,0,NEEDS EXTRACTION
+South Brunswick School District,http://www.sbschools.org,0,NEEDS EXTRACTION
+South Hackensack School District,http://www.shmemorial.org,0,NEEDS EXTRACTION
+South Harrison Township School District,http://www.southharrison.k12.nj.us,0,NEEDS EXTRACTION
+South Orange-Maplewood School District,http://www.somsd.k12.nj.us,0,NEEDS EXTRACTION
+South Plainfield School District,http://www.spboe.org,0,NEEDS EXTRACTION
+South River Public School District,http://www.srivernj.org,0,NEEDS EXTRACTION
+Southampton Township School District,http://www.stsdwarriors.org,0,NEEDS EXTRACTION
+Delsea Regional High School District,http://www.delsearegional.us,0,NEEDS EXTRACTION
+Southern Regional School District,http://www.srsd.net,0,NEEDS EXTRACTION
+Sparta Township Public School District,http://www.sparta.org,0,NEEDS EXTRACTION
+Spotswood Public School District,http://www.spsd.us,0,NEEDS EXTRACTION
+Spring Lake Borough,http://www.slboe.org,0,NEEDS EXTRACTION
+Spring Lake Heights School District,http://www.slheights.org,0,NEEDS EXTRACTION
+Springfield Public School District,http://www.springfieldschools.com,0,NEEDS EXTRACTION
+Springfield Township School District,http://www.springfieldschool.org,0,NEEDS EXTRACTION
+Stafford Township School District,http://www.staffordschools.org,0,NEEDS EXTRACTION
+Stanhope School District,http://www.stanhopeschools.org,0,NEEDS EXTRACTION
+Stillwater Township School District,http://www.stillwaterschool.net,0,NEEDS EXTRACTION
+Stone Harbor School District,http://www.avalonstoneharborschools.org,0,NEEDS EXTRACTION
+Stow Creek Township School District,http://www.greenwichstowcreekpartnershipschools.org,0,NEEDS EXTRACTION
+Stratford School District,http://www.stratford.k12.nj.us,0,NEEDS EXTRACTION
+Summit Public School District,http://www.summit.k12.nj.us,0,NEEDS EXTRACTION
+Sussex County Technical School District,http://www.sussextech.org,0,NEEDS EXTRACTION
+Sussex-Wantage Regional School District,http://www.swregional.org,0,NEEDS EXTRACTION
+Swedesboro-Woolwich School District,http://www.swedesboro-woolwich.com,0,NEEDS EXTRACTION
+Tabernacle Township School District,http://www.tabschools.org,0,NEEDS EXTRACTION
+Teaneck School District,http://www.teaneckschools.org,0,NEEDS EXTRACTION
+Tenafly Public School District,http://www.tenaflyschools.org,0,NEEDS EXTRACTION
+Tewksbury Township School District,http://www.tewksburyschools.org,0,NEEDS EXTRACTION
+Tinton Falls School District,http://www.tfschools.org,0,NEEDS EXTRACTION
+Toms River Regional School District,http://www.trschools.com,0,NEEDS EXTRACTION
+Totowa Public School District,http://www.totowa.k12.nj.us,0,NEEDS EXTRACTION
+Trenton Public School District,http://www.trenton.k12.nj.us,0,NEEDS EXTRACTION
+Tuckerton Borough School District,http://www.tesnj.com,0,NEEDS EXTRACTION
+Union Beach Public School District,http://www.unionbeachschools.org,0,NEEDS EXTRACTION
+Union City School District,http://www.ucboe.us,0,NEEDS EXTRACTION
+Union County Educational Services Commission,http://www.ucesc.org,0,NEEDS EXTRACTION
+Union Township School District,http://www.uniontwpschool.org,0,NEEDS EXTRACTION
+Barnegat Township School District,http://www.barnegatschools.com,0,NEEDS EXTRACTION
+Township of Union School District,http://www.twpunionschools.org,0,NEEDS EXTRACTION
+Upper Deerfield Township School District,http://www.udts.org,0,NEEDS EXTRACTION
+Upper Freehold Regional School District,http://www.ufrsd.net,0,NEEDS EXTRACTION
+UPPER PITTSGROVE TWP School District,http://www.upsnj.org/,0,NEEDS EXTRACTION
+Upper Saddle River School District,http://www.usrschoolsk8.com,0,NEEDS EXTRACTION
+Upper Township School District,http://www.upperschools.org,0,NEEDS EXTRACTION
+Ventnor City School District,http://www.veccnj.org,0,NEEDS EXTRACTION
+Vernon Township School District,http://www.vtsd.com,0,NEEDS EXTRACTION
+Verona Public School District,http://www.veronaschools.org,0,NEEDS EXTRACTION
+Vineland Public School District,http://www.vineland.org,0,NEEDS EXTRACTION
+Voorhees Township School District,http://www.voorhees.k12.nj.us,0,NEEDS EXTRACTION
+Waldwick School District,http://www.waldwickschools.org,0,NEEDS EXTRACTION
+Wallkill Valley Regional High School,http://www.wallkillvrhs.org,0,NEEDS EXTRACTION
+Wall Township Public School District,http://www.wallpublicschools.org/,0,NEEDS EXTRACTION
+Wallington Boro School District,http://www.wboe.org,0,NEEDS EXTRACTION
+Wanaque School District,http://www.wanaqueps.org,0,NEEDS EXTRACTION
+Warren Hills Regional School District,http://www.warrenhills.org,0,NEEDS EXTRACTION
+Warren Township School District,http://www.warrentboe.org,0,NEEDS EXTRACTION
+Washington Boro School District,http://www.washboroschools.org,0,NEEDS EXTRACTION
+Washington Township School District,http://www.wtgreenbank.k12.nj.us,0,NEEDS EXTRACTION
+Washington Township School District,http://www.wtps.org,0,NEEDS EXTRACTION
+Robbinsville Public School District,http://www.robbinsville.k12.nj.us/,0,NEEDS EXTRACTION
+Washington Township School District,http://www.wtschools.org,0,NEEDS EXTRACTION
+Washington Township School District,http://www.washtwpsd.org,0,NEEDS EXTRACTION
+Watchung Borough School District,http://www.watchungschools.com,0,NEEDS EXTRACTION
+Watchung Hills Regional High School District,http://www.whrhs.org,0,NEEDS EXTRACTION
+Waterford Township School District,http://www.wtsd.org,0,NEEDS EXTRACTION
+Wayne Township Public School District,http://www.wayneschools.com,0,NEEDS EXTRACTION
+Weehawken Public School District,http://www.weehawken.k12.nj.us,0,NEEDS EXTRACTION
+Wenonah  Boro School District,http://www.wenonahsd.org,0,NEEDS EXTRACTION
+West Cape May School District,http://wcmschool.net,0,NEEDS EXTRACTION
+West Deptford Township School District,http://www.wdeptford.k12.nj.us,0,NEEDS EXTRACTION
+West Essex Regional School District,http://www.westex.org,0,NEEDS EXTRACTION
+West Long Branch School District,http://www.wlbschools.com,0,NEEDS EXTRACTION
+Monmouth County Vocational School District,http://www.mcvsd.org,0,NEEDS EXTRACTION
+West Milford Township Public School District,http://www.wmtps.org,0,NEEDS EXTRACTION
+West Morris Regional High School District,http://www.wmrhsd.org,0,NEEDS EXTRACTION
+West New York School District,http://www.wnyschools.net,0,NEEDS EXTRACTION
+West Orange Public Schools,http://www.woboe.org,0,NEEDS EXTRACTION
+Woodland Park School District,http://www.wpschools.org,0,NEEDS EXTRACTION
+West Wildwood School District,http://n/a,0,NEEDS EXTRACTION
+West Windsor-Plainsboro Regional School District,http://www.ww-p.org/,0,NEEDS EXTRACTION
+Westampton Township Public School District,http://www.westamptonschools.org,0,NEEDS EXTRACTION
+Westfield Public School District,http://www.westfieldnjk12.org,0,NEEDS EXTRACTION
+Westville Boro Public School District,http://www.westvillesd.com,0,NEEDS EXTRACTION
+Westwood Regional School District,http://www.wwrsd.org,0,NEEDS EXTRACTION
+Weymouth Township School District,http://www.weymouthtownshipschool.org,0,NEEDS EXTRACTION
+Wharton Borough School District,http://www.wbps.org,0,NEEDS EXTRACTION
+White Township Consolidated School District,http://www.whitetwpsd.org,0,NEEDS EXTRACTION
+Warren County Vocational Technical School,http://www.wctech.org,0,NEEDS EXTRACTION
+Wildwood City School District,http://nj02210961.schoolwires.net/,0,NEEDS EXTRACTION
+Wildwood Crest Borough School District,http://WWW.CRESTMEM.EDU,0,NEEDS EXTRACTION
+Willingboro Public School District,http://www.willingboroschools.org,0,NEEDS EXTRACTION
+Winfield Township,http://www.winfieldschool.org,0,NEEDS EXTRACTION
+Union County Vocational-Technical School District,http://www.ucvts.org,0,NEEDS EXTRACTION
+Winslow Township School District,http://www.winslow-schools.com,0,NEEDS EXTRACTION
+Woodbine School District,http://woodbineschool.com,0,NEEDS EXTRACTION
+Woodbridge Township School District,http://www.woodbridge.k12.nj.us/,0,NEEDS EXTRACTION
+Woodbury City Public School District,http://www.woodburysch.com,0,NEEDS EXTRACTION
+Woodbury Heights Public School District,http://www.woodburyhtselem.com,0,NEEDS EXTRACTION
+Woodcliff Lake School District,http://www.woodcliff-lake.com,0,NEEDS EXTRACTION
+Woodland Township School District,http://www.woodlandboe.org,0,NEEDS EXTRACTION
+Woodlynne School District,http://www.woodlynne.k12.nj.us,0,NEEDS EXTRACTION
+Wood-Ridge School District,http://www.wood-ridgeschools.org,0,NEEDS EXTRACTION
+Woodstown-Pilesgrove Regional School District,http://www.woodstown.org,0,NEEDS EXTRACTION
+Wyckoff Township Public School District,http://www.wyckoffps.org,0,NEEDS EXTRACTION
+Educational Services Commission of New Jersey,http://www.escnj.us,0,NEEDS EXTRACTION
+Mercer County Special Services School District,http://www.mcsssd.info,0,NEEDS EXTRACTION
+Monmouth-Ocean Educational Services Commission School Distri,http://www.moesc.org,0,NEEDS EXTRACTION
+Educational Services Commission of Morris County,http://www.escmorris.com,0,NEEDS EXTRACTION
+Somerset County Educational Services Commission School Distr,http://www.somersetcountyesc.org,0,NEEDS EXTRACTION
+Essex Regional Educational Services Commission,http://www.eresc.org,0,NEEDS EXTRACTION
+Sussex County Educational Services Commission,http://www.sussexesc.org,0,NEEDS EXTRACTION
+Camden County Educational Services Commission,http://www.camdenesc.org,0,NEEDS EXTRACTION
+Hunterdon County Educational Services Commission,http://www.hunterdonesc.org,0,NEEDS EXTRACTION
+Salem County Special Services School District,http://scsssd.org,0,NEEDS EXTRACTION
+Warren County Special Services School District,http://www.wcsssd.org,0,NEEDS EXTRACTION
+Gloucester County Special Services School District,http://www.gcsssd.org,0,NEEDS EXTRACTION
+Northern Region Educational Services Commission,http://www.nresc.org,0,NEEDS EXTRACTION
+Gateway Academy Charter School,http://gatewayacademy.org,0,NEEDS EXTRACTION
+Kindle Education Public Charter School,http://www.kindleeducation.org/,0,NEEDS EXTRACTION
+Paterson Preparatory Charter School,http://patersonprep.org/,0,NEEDS EXTRACTION
+Thrive Charter School,http://www.thrivecharterschool.org,0,NEEDS EXTRACTION
+Henry Hudson Regional School District,http://www.henryhudsonreg.k12.nj.us,0,NEEDS EXTRACTION
+Greenwich Stow Creek Regional School District,http://www.gscnj.org,0,NEEDS EXTRACTION

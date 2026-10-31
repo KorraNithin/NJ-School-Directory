@@ -1,0 +1,321 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: #f5f7fb;
+  color: #172033;
+}
+
+button, input, select {
+  font: inherit;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.topbar {
+  height: 76px;
+  padding: 0 7%;
+  background: white;
+  border-bottom: 1px solid #e7eaf0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand-icon {
+  width: 43px;
+  height: 43px;
+  border-radius: 12px;
+  background: #e9efff;
+  color: #315cce;
+  display: grid;
+  place-items: center;
+}
+
+.brand h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.brand p {
+  font-size: 12px;
+  color: #7c8495;
+  margin: 4px 0 0;
+}
+
+.refresh-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 15px;
+  background: white;
+  border: 1px solid #dce1eb;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1120px;
+  margin: auto;
+  padding: 42px 24px;
+}
+
+.hero {
+  margin-bottom: 30px;
+}
+
+.eyebrow {
+  color: #315cce;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+}
+
+.hero h2 {
+  font-size: 32px;
+  margin: 12px 0;
+}
+
+.hero p {
+  color: #747d8e;
+  font-size: 15px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-bottom: 30px;
+}
+
+.stat-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: white;
+  padding: 22px;
+  border: 1px solid #e8ebf1;
+  border-radius: 12px;
+}
+
+.stat-card > svg {
+  color: #315cce;
+  width: 25px;
+  height: 25px;
+}
+
+.stat-card strong {
+  display: block;
+  font-size: 25px;
+}
+
+.stat-card span {
+  color: #7c8495;
+  font-size: 13px;
+}
+
+.directory {
+  background: white;
+  border: 1px solid #e8ebf1;
+  border-radius: 13px;
+  padding: 24px;
+}
+
+.tabs {
+  display: flex;
+  gap: 25px;
+  border-bottom: 1px solid #e8ebf1;
+}
+
+.tabs button {
+  padding: 0 0 14px;
+  border: 0;
+  background: transparent;
+  color: #747d8e;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tabs button.active {
+  color: #315cce;
+  border-bottom: 2px solid #315cce;
+}
+
+.filters {
+  display: flex;
+  gap: 12px;
+  margin: 22px 0;
+}
+
+.search-box {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #dce1eb;
+  border-radius: 8px;
+  padding: 0 13px;
+}
+
+.search-box svg {
+  color: #8992a3;
+}
+
+.search-box input {
+  width: 100%;
+  border: 0;
+  outline: none;
+  padding: 13px 0;
+}
+
+.filters select {
+  min-width: 210px;
+  padding: 0 12px;
+  border: 1px solid #dce1eb;
+  border-radius: 8px;
+  background: white;
+  color: #394357;
+}
+
+.results-heading {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px 0 12px;
+}
+
+.results-heading span {
+  color: #8992a3;
+  font-size: 13px;
+}
+
+.records {
+  display: grid;
+  gap: 10px;
+}
+
+.record {
+  display: flex;
+  gap: 15px;
+  padding: 18px;
+  border: 1px solid #edf0f5;
+  border-radius: 9px;
+}
+
+.record-icon {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  background: #eef2ff;
+  color: #315cce;
+  border-radius: 9px;
+  display: grid;
+  place-items: center;
+}
+
+.record-main {
+  min-width: 0;
+}
+
+.record h3 {
+  font-size: 15px;
+  margin: 1px 0 7px;
+}
+
+.record p {
+  color: #7c8495;
+  font-size: 13px;
+  margin: 5px 0;
+}
+
+.contact-lines {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 12px;
+}
+
+.contact-lines span,
+.contact-lines a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #315cce;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.message {
+  text-align: center;
+  padding: 45px 10px;
+  color: #747d8e;
+}
+
+.message.error {
+  color: #c0392b;
+}
+
+.message button {
+  display: block;
+  margin: 12px auto;
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  color: #8992a3;
+  font-size: 12px;
+  margin: 25px 0;
+}
+
+@media (max-width: 650px) {
+  .topbar {
+    padding: 0 16px;
+  }
+
+  .container {
+    padding: 28px 14px;
+  }
+
+  .hero h2 {
+    font-size: 25px;
+  }
+
+  .stats {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .filters {
+    flex-direction: column;
+  }
+
+  .filters select {
+    min-height: 43px;
+  }
+
+  .tabs {
+    gap: 15px;
+    overflow-x: auto;
+  }
+
+  .tabs button {
+    white-space: nowrap;
+  }
+
+  .directory {
+    padding: 16px;
+  }
+}
